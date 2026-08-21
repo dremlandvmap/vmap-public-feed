@@ -1,0 +1,1736 @@
+{
+  "generated": "2026-08-21T22:41:06.227Z",
+  "source": "publish_feed_ci.mjs (GitHub Actions)",
+  "counties": {
+    "AZ-Apache": {
+      "slug": "AZ-Apache",
+      "news": {
+        "total": 0,
+        "geocoded": 0,
+        "last7": 0,
+        "last30": 0,
+        "newest": null,
+        "precision": {}
+      },
+      "outline": {
+        "points": 2573,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
+    "AZ-Cochise": {
+      "slug": "AZ-Cochise",
+      "news": {
+        "total": 0,
+        "geocoded": 0,
+        "last7": 0,
+        "last30": 0,
+        "newest": null,
+        "precision": {}
+      },
+      "outline": {
+        "points": 250,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
+    "AZ-Coconino": {
+      "slug": "AZ-Coconino",
+      "news": {
+        "total": 0,
+        "geocoded": 0,
+        "last7": 0,
+        "last30": 0,
+        "newest": null,
+        "precision": {}
+      },
+      "outline": {
+        "points": 11139,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
+    "AZ-Gila": {
+      "slug": "AZ-Gila",
+      "news": {
+        "total": 0,
+        "geocoded": 0,
+        "last7": 0,
+        "last30": 0,
+        "newest": null,
+        "precision": {}
+      },
+      "outline": {
+        "points": 12521,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
+    "AZ-Greenlee": {
+      "slug": "AZ-Greenlee",
+      "news": {
+        "total": 0,
+        "geocoded": 0,
+        "last7": 0,
+        "last30": 0,
+        "newest": null,
+        "precision": {}
+      },
+      "outline": {
+        "points": 1840,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
+    "AZ-La-Paz": {
+      "slug": "AZ-La-Paz",
+      "news": {
+        "total": 0,
+        "geocoded": 0,
+        "last7": 0,
+        "last30": 0,
+        "newest": null,
+        "precision": {}
+      },
+      "outline": {
+        "points": 3313,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
+    "AZ-Maricopa": {
+      "slug": "AZ-Maricopa",
+      "news": {
+        "total": 2,
+        "geocoded": 2,
+        "last7": 0,
+        "last30": 2,
+        "newest": "2026-08-10T13:15:49.000Z",
+        "precision": {
+          "address": 1,
+          "city": 1
+        }
+      },
+      "outline": {
+        "points": 2519,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
+    "AZ-Pima": {
+      "slug": "AZ-Pima",
+      "news": {
+        "total": 1,
+        "geocoded": 1,
+        "last7": 1,
+        "last30": 1,
+        "newest": "2026-08-15T12:50:00.000Z",
+        "precision": {
+          "address": 1
+        }
+      },
+      "outline": {
+        "points": 276,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
+    "AZ-Pinal": {
+      "slug": "AZ-Pinal",
+      "news": {
+        "total": 0,
+        "geocoded": 0,
+        "last7": 0,
+        "last30": 0,
+        "newest": null,
+        "precision": {}
+      },
+      "outline": {
+        "points": 1653,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
+    "AZ-Santa-Cruz": {
+      "slug": "AZ-Santa-Cruz",
+      "news": {
+        "total": 0,
+        "geocoded": 0,
+        "last7": 0,
+        "last30": 0,
+        "newest": null,
+        "precision": {}
+      },
+      "outline": {
+        "points": 115,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
+    "AZ-Yuma": {
+      "slug": "AZ-Yuma",
+      "news": {
+        "total": 0,
+        "geocoded": 0,
+        "last7": 0,
+        "last30": 0,
+        "newest": null,
+        "precision": {}
+      },
+      "outline": {
+        "points": 924,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
+    "FL-Alachua": {
+      "slug": "FL-Alachua",
+      "news": {
+        "total": 0,
+        "geocoded": 0,
+        "last7": 0,
+        "last30": 0,
+        "newest": null,
+        "precision": {}
+      },
+      "outline": {
+        "points": 2278,
+        "bbox": {
+          "w": 29.41709,
+          "e": 29.94535,
+          "s": -82.65814,
+          "n": -82.04881
+        }
+      }
+    },
+    "FL-Brevard": {
+      "slug": "FL-Brevard",
+      "news": {
+        "total": 0,
+        "geocoded": 0,
+        "last7": 0,
+        "last30": 0,
+        "newest": null,
+        "precision": {}
+      },
+      "outline": {
+        "points": 1346,
+        "bbox": {
+          "w": 27.82206,
+          "e": 28.79139,
+          "s": -80.98725,
+          "n": -80.38507
+        }
+      }
+    },
+    "FL-Broward": {
+      "slug": "FL-Broward",
+      "news": {
+        "total": 25,
+        "geocoded": 25,
+        "last7": 0,
+        "last30": 11,
+        "newest": "2026-08-07T11:00:01.000Z",
+        "precision": {
+          "address": 13,
+          "city": 9,
+          "intersection": 3
+        }
+      },
+      "outline": {
+        "points": 254,
+        "bbox": {
+          "w": 25.95675,
+          "e": 26.35555,
+          "s": -80.88123,
+          "n": -80.01528
+        }
+      }
+    },
+    "FL-Charlotte": {
+      "slug": "FL-Charlotte",
+      "news": {
+        "total": 0,
+        "geocoded": 0,
+        "last7": 0,
+        "last30": 0,
+        "newest": null,
+        "precision": {}
+      },
+      "outline": {
+        "points": 146,
+        "bbox": {
+          "w": 26.76955,
+          "e": 27.03525,
+          "s": -82.43732,
+          "n": -81.5622
+        }
+      }
+    },
+    "FL-Collier": {
+      "slug": "FL-Collier",
+      "news": {
+        "total": 2,
+        "geocoded": 2,
+        "last7": 0,
+        "last30": 2,
+        "newest": "2026-08-08T10:05:00.000Z",
+        "precision": {
+          "address": 2
+        }
+      },
+      "outline": {
+        "points": 254,
+        "bbox": {
+          "w": 25.76945,
+          "e": 26.51707,
+          "s": -81.9055,
+          "n": -80.87275
+        }
+      }
+    },
+    "FL-Dade": {
+      "slug": "FL-Dade",
+      "news": {
+        "total": 80,
+        "geocoded": 80,
+        "last7": 2,
+        "last30": 28,
+        "newest": "2026-08-17T11:00:25.000Z",
+        "precision": {
+          "city": 31,
+          "address": 48,
+          "intersection": 1
+        }
+      },
+      "outline": {
+        "points": 1012,
+        "bbox": {
+          "w": 25.14405,
+          "e": 25.97944,
+          "s": -80.87378,
+          "n": -80.11784
+        }
+      }
+    },
+    "FL-Duval": {
+      "slug": "FL-Duval",
+      "news": {
+        "total": 8,
+        "geocoded": 8,
+        "last7": 1,
+        "last30": 8,
+        "newest": "2026-08-17T13:50:52.000Z",
+        "precision": {
+          "city": 1,
+          "address": 7
+        }
+      },
+      "outline": {
+        "points": 977,
+        "bbox": {
+          "w": 30.10375,
+          "e": 30.58623,
+          "s": -82.0495,
+          "n": -81.31671
+        }
+      }
+    },
+    "FL-Flagler": {
+      "slug": "FL-Flagler",
+      "news": {
+        "total": 0,
+        "geocoded": 0,
+        "last7": 0,
+        "last30": 0,
+        "newest": null,
+        "precision": {}
+      },
+      "outline": {
+        "points": 580,
+        "bbox": {
+          "w": 29.26113,
+          "e": 29.67109,
+          "s": -81.52366,
+          "n": -81.04192
+        }
+      }
+    },
+    "FL-Hillsborough": {
+      "slug": "FL-Hillsborough",
+      "news": {
+        "total": 8,
+        "geocoded": 8,
+        "last7": 3,
+        "last30": 8,
+        "newest": "2026-08-17T18:34:18.000Z",
+        "precision": {
+          "address": 8
+        }
+      },
+      "outline": {
+        "points": 310,
+        "bbox": {
+          "w": 27.57055,
+          "e": 28.17338,
+          "s": -82.82367,
+          "n": -82.05401
+        }
+      }
+    },
+    "FL-Indian-River": {
+      "slug": "FL-Indian-River",
+      "news": {
+        "total": 0,
+        "geocoded": 0,
+        "last7": 0,
+        "last30": 0,
+        "newest": null,
+        "precision": {}
+      },
+      "outline": {
+        "points": 165,
+        "bbox": {
+          "w": 27.55674,
+          "e": 27.86136,
+          "s": -80.88156,
+          "n": -80.26354
+        }
+      }
+    },
+    "FL-Lake": {
+      "slug": "FL-Lake",
+      "news": {
+        "total": 0,
+        "geocoded": 0,
+        "last7": 0,
+        "last30": 0,
+        "newest": null,
+        "precision": {}
+      },
+      "outline": {
+        "points": 1574,
+        "bbox": {
+          "w": 28.34518,
+          "e": 29.27676,
+          "s": -81.95764,
+          "n": -81.34964
+        }
+      }
+    },
+    "FL-Lee": {
+      "slug": "FL-Lee",
+      "news": {
+        "total": 1,
+        "geocoded": 1,
+        "last7": 0,
+        "last30": 1,
+        "newest": "2026-08-14T16:34:00.000Z",
+        "precision": {
+          "address": 1
+        }
+      },
+      "outline": {
+        "points": 164,
+        "bbox": {
+          "w": 26.31645,
+          "e": 26.78955,
+          "s": -82.33504,
+          "n": -81.56218
+        }
+      }
+    },
+    "FL-Manatee": {
+      "slug": "FL-Manatee",
+      "news": {
+        "total": 1,
+        "geocoded": 1,
+        "last7": 1,
+        "last30": 1,
+        "newest": "2026-08-17T18:12:00.000Z",
+        "precision": {
+          "address": 1
+        }
+      },
+      "outline": {
+        "points": 170,
+        "bbox": {
+          "w": 27.20777,
+          "e": 27.64668,
+          "s": -82.82303,
+          "n": -82.05434
+        }
+      }
+    },
+    "FL-Marion": {
+      "slug": "FL-Marion",
+      "news": {
+        "total": 1,
+        "geocoded": 1,
+        "last7": 1,
+        "last30": 1,
+        "newest": "2026-08-17T10:55:00.000Z",
+        "precision": {
+          "city": 1
+        }
+      },
+      "outline": {
+        "points": 3051,
+        "bbox": {
+          "w": 28.95978,
+          "e": 29.52168,
+          "s": -82.53591,
+          "n": -81.63869
+        }
+      }
+    },
+    "FL-Martin": {
+      "slug": "FL-Martin",
+      "news": {
+        "total": 3,
+        "geocoded": 3,
+        "last7": 0,
+        "last30": 1,
+        "newest": "2026-07-27T15:59:31.000Z",
+        "precision": {
+          "city": 2,
+          "address": 1
+        }
+      },
+      "outline": {
+        "points": 139,
+        "bbox": {
+          "w": 26.95663,
+          "e": 27.26383,
+          "s": -80.88564,
+          "n": -80.02275
+        }
+      }
+    },
+    "FL-Okaloosa": {
+      "slug": "FL-Okaloosa",
+      "news": {
+        "total": 0,
+        "geocoded": 0,
+        "last7": 0,
+        "last30": 0,
+        "newest": null,
+        "precision": {}
+      },
+      "outline": {
+        "points": 432,
+        "bbox": {
+          "w": 30.3893,
+          "e": 30.99254,
+          "s": -86.8,
+          "n": -86.38847
+        }
+      }
+    },
+    "FL-Orange": {
+      "slug": "FL-Orange",
+      "news": {
+        "total": 1,
+        "geocoded": 1,
+        "last7": 0,
+        "last30": 1,
+        "newest": "2026-08-05T11:00:41.000Z",
+        "precision": {
+          "address": 1
+        }
+      },
+      "outline": {
+        "points": 1684,
+        "bbox": {
+          "w": 28.34689,
+          "e": 28.78607,
+          "s": -81.6586,
+          "n": -80.8629
+        }
+      }
+    },
+    "FL-Palm-Beach": {
+      "slug": "FL-Palm-Beach",
+      "news": {
+        "total": 54,
+        "geocoded": 54,
+        "last7": 0,
+        "last30": 8,
+        "newest": "2026-08-04T17:15:37.000Z",
+        "precision": {
+          "address": 40,
+          "city": 14
+        }
+      },
+      "outline": {
+        "points": 66,
+        "bbox": {
+          "w": 26.32077,
+          "e": 26.97088,
+          "s": -80.88634,
+          "n": -80.02343
+        }
+      }
+    },
+    "FL-Pasco": {
+      "slug": "FL-Pasco",
+      "news": {
+        "total": 1,
+        "geocoded": 1,
+        "last7": 0,
+        "last30": 1,
+        "newest": "2026-08-04T18:25:00.000Z",
+        "precision": {
+          "address": 1
+        }
+      },
+      "outline": {
+        "points": 250,
+        "bbox": {
+          "w": 28.17103,
+          "e": 28.47884,
+          "s": -82.90831,
+          "n": -82.05469
+        }
+      }
+    },
+    "FL-Pinellas": {
+      "slug": "FL-Pinellas",
+      "news": {
+        "total": 0,
+        "geocoded": 0,
+        "last7": 0,
+        "last30": 0,
+        "newest": null,
+        "precision": {}
+      },
+      "outline": {
+        "points": 234,
+        "bbox": {
+          "w": 27.61027,
+          "e": 28.17334,
+          "s": -82.90891,
+          "n": -82.54061
+        }
+      }
+    },
+    "FL-Polk": {
+      "slug": "FL-Polk",
+      "news": {
+        "total": 1,
+        "geocoded": 1,
+        "last7": 1,
+        "last30": 1,
+        "newest": "2026-08-17T19:53:00.000Z",
+        "precision": {
+          "address": 1
+        }
+      },
+      "outline": {
+        "points": 2755,
+        "bbox": {
+          "w": 27.64324,
+          "e": 28.36187,
+          "s": -82.10623,
+          "n": -81.13104
+        }
+      }
+    },
+    "FL-Sarasota": {
+      "slug": "FL-Sarasota",
+      "news": {
+        "total": 1,
+        "geocoded": 1,
+        "last7": 0,
+        "last30": 1,
+        "newest": "2026-08-13T12:00:00.000Z",
+        "precision": {
+          "address": 1
+        }
+      },
+      "outline": {
+        "points": 202,
+        "bbox": {
+          "w": 26.94526,
+          "e": 27.38974,
+          "s": -82.70543,
+          "n": -82.05649
+        }
+      }
+    },
+    "FL-Seminole": {
+      "slug": "FL-Seminole",
+      "news": {
+        "total": 0,
+        "geocoded": 0,
+        "last7": 0,
+        "last30": 0,
+        "newest": null,
+        "precision": {}
+      },
+      "outline": {
+        "points": 1090,
+        "bbox": {
+          "w": 28.61028,
+          "e": 28.87922,
+          "s": -81.45972,
+          "n": -80.98686
+        }
+      }
+    },
+    "FL-St.-Johns": {
+      "slug": "FL-St.-Johns",
+      "news": {
+        "total": 0,
+        "geocoded": 0,
+        "last7": 0,
+        "last30": 0,
+        "newest": null,
+        "precision": {}
+      },
+      "outline": {
+        "points": 660,
+        "bbox": {
+          "w": 29.62243,
+          "e": 30.25294,
+          "s": -81.69047,
+          "n": -81.15082
+        }
+      }
+    },
+    "FL-St.-Lucie": {
+      "slug": "FL-St.-Lucie",
+      "news": {
+        "total": 25,
+        "geocoded": 25,
+        "last7": 0,
+        "last30": 5,
+        "newest": "2026-08-04T04:00:00.000Z",
+        "precision": {
+          "address": 13,
+          "city": 12
+        }
+      },
+      "outline": {
+        "points": 202,
+        "bbox": {
+          "w": 27.20558,
+          "e": 27.55871,
+          "s": -80.68,
+          "n": -80.13805
+        }
+      }
+    },
+    "FL-Volusia": {
+      "slug": "FL-Volusia",
+      "news": {
+        "total": 1,
+        "geocoded": 1,
+        "last7": 0,
+        "last30": 1,
+        "newest": "2026-08-13T13:18:10.000Z",
+        "precision": {
+          "address": 1
+        }
+      },
+      "outline": {
+        "points": 1937,
+        "bbox": {
+          "w": 28.61266,
+          "e": 29.43246,
+          "s": -81.6809,
+          "n": -80.66346
+        }
+      }
+    },
+    "GA-Chatham": {
+      "slug": "GA-Chatham",
+      "news": {
+        "total": 3,
+        "geocoded": 3,
+        "last7": 0,
+        "last30": 1,
+        "newest": "2026-08-02T19:12:11.000Z",
+        "precision": {
+          "address": 2,
+          "city": 1
+        }
+      },
+      "outline": {
+        "points": 1194,
+        "bbox": {
+          "w": 31.7052,
+          "e": 32.23759,
+          "s": -81.3917,
+          "n": -80.78296
+        }
+      }
+    },
+    "GA-Fulton": {
+      "slug": "GA-Fulton",
+      "news": {
+        "total": 1,
+        "geocoded": 1,
+        "last7": 1,
+        "last30": 1,
+        "newest": "2026-08-17T13:48:40.000Z",
+        "precision": {
+          "city": 1
+        }
+      },
+      "outline": {
+        "points": 1711,
+        "bbox": {
+          "w": 33.50251,
+          "e": 34.18629,
+          "s": -84.85071,
+          "n": -84.09769
+        }
+      }
+    },
+    "NC-Buncombe": {
+      "slug": "NC-Buncombe",
+      "news": {
+        "total": 1,
+        "geocoded": 1,
+        "last7": 0,
+        "last30": 1,
+        "newest": "2026-08-10T11:06:51.000Z",
+        "precision": {
+          "address": 1
+        }
+      },
+      "outline": {
+        "points": 2978,
+        "bbox": {
+          "w": 35.41645,
+          "e": 35.82411,
+          "s": -82.88811,
+          "n": -82.16905
+        }
+      }
+    },
+    "NC-Davidson": {
+      "slug": "NC-Davidson",
+      "news": {
+        "total": 1,
+        "geocoded": 1,
+        "last7": 1,
+        "last30": 1,
+        "newest": "2026-08-17T15:03:04.000Z",
+        "precision": {
+          "city": 1
+        }
+      },
+      "outline": {
+        "points": 899,
+        "bbox": {
+          "w": 35.50414,
+          "e": 36.02681,
+          "s": -80.48759,
+          "n": -80.04324
+        }
+      }
+    },
+    "NC-Onslow": {
+      "slug": "NC-Onslow",
+      "news": {
+        "total": 1,
+        "geocoded": 1,
+        "last7": 1,
+        "last30": 1,
+        "newest": "2026-08-17T13:50:52.000Z",
+        "precision": {
+          "city": 1
+        }
+      },
+      "outline": {
+        "points": 1767,
+        "bbox": {
+          "w": 34.3997,
+          "e": 34.98446,
+          "s": -77.68013,
+          "n": -77.09607
+        }
+      }
+    },
+    "NC-Wake": {
+      "slug": "NC-Wake",
+      "news": {
+        "total": 20,
+        "geocoded": 20,
+        "last7": 0,
+        "last30": 7,
+        "newest": "2026-07-31T07:33:18.000Z",
+        "precision": {
+          "address": 10,
+          "city": 10
+        }
+      },
+      "outline": {
+        "points": 760,
+        "bbox": {
+          "w": 35.51948,
+          "e": 36.07629,
+          "s": -78.99507,
+          "n": -78.25368
+        }
+      }
+    },
+    "TX-Bastrop": {
+      "slug": "TX-Bastrop",
+      "news": {
+        "total": 0,
+        "geocoded": 0,
+        "last7": 0,
+        "last30": 0,
+        "newest": null,
+        "precision": {}
+      },
+      "outline": {
+        "points": 432,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
+    "TX-Brazoria": {
+      "slug": "TX-Brazoria",
+      "news": {
+        "total": 1,
+        "geocoded": 1,
+        "last7": 0,
+        "last30": 1,
+        "newest": "2026-08-13T16:37:00.000Z",
+        "precision": {
+          "city": 1
+        }
+      },
+      "outline": {
+        "points": 5397,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
+    "TX-Brazos": {
+      "slug": "TX-Brazos",
+      "news": {
+        "total": 0,
+        "geocoded": 0,
+        "last7": 0,
+        "last30": 0,
+        "newest": null,
+        "precision": {}
+      },
+      "outline": {
+        "points": 4117,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
+    "TX-Caldwell": {
+      "slug": "TX-Caldwell",
+      "news": {
+        "total": 0,
+        "geocoded": 0,
+        "last7": 0,
+        "last30": 0,
+        "newest": null,
+        "precision": {}
+      },
+      "outline": {
+        "points": 1671,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
+    "TX-Collin": {
+      "slug": "TX-Collin",
+      "news": {
+        "total": 2,
+        "geocoded": 2,
+        "last7": 0,
+        "last30": 2,
+        "newest": "2026-08-14T16:00:00.000Z",
+        "precision": {
+          "address": 2
+        }
+      },
+      "outline": {
+        "points": 188,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
+    "TX-Dallas": {
+      "slug": "TX-Dallas",
+      "news": {
+        "total": 0,
+        "geocoded": 0,
+        "last7": 0,
+        "last30": 0,
+        "newest": null,
+        "precision": {}
+      },
+      "outline": {
+        "points": 62,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
+    "TX-Denton": {
+      "slug": "TX-Denton",
+      "news": {
+        "total": 2,
+        "geocoded": 2,
+        "last7": 1,
+        "last30": 2,
+        "newest": "2026-08-17T15:03:04.000Z",
+        "precision": {
+          "city": 2
+        }
+      },
+      "outline": {
+        "points": 120,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
+    "TX-Ellis": {
+      "slug": "TX-Ellis",
+      "news": {
+        "total": 0,
+        "geocoded": 0,
+        "last7": 0,
+        "last30": 0,
+        "newest": null,
+        "precision": {}
+      },
+      "outline": {
+        "points": 981,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
+    "TX-Fort-Bend": {
+      "slug": "TX-Fort-Bend",
+      "news": {
+        "total": 0,
+        "geocoded": 0,
+        "last7": 0,
+        "last30": 0,
+        "newest": null,
+        "precision": {}
+      },
+      "outline": {
+        "points": 2713,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
+    "TX-Galveston": {
+      "slug": "TX-Galveston",
+      "news": {
+        "total": 1,
+        "geocoded": 1,
+        "last7": 0,
+        "last30": 1,
+        "newest": "2026-08-06T13:15:01.000Z",
+        "precision": {
+          "address": 1
+        }
+      },
+      "outline": {
+        "points": 2444,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
+    "TX-Harris": {
+      "slug": "TX-Harris",
+      "news": {
+        "total": 4,
+        "geocoded": 4,
+        "last7": 0,
+        "last30": 4,
+        "newest": "2026-08-13T13:14:11.000Z",
+        "precision": {
+          "address": 4
+        }
+      },
+      "outline": {
+        "points": 10637,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
+    "TX-Hays": {
+      "slug": "TX-Hays",
+      "news": {
+        "total": 0,
+        "geocoded": 0,
+        "last7": 0,
+        "last30": 0,
+        "newest": null,
+        "precision": {}
+      },
+      "outline": {
+        "points": 378,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
+    "TX-Hunt": {
+      "slug": "TX-Hunt",
+      "news": {
+        "total": 0,
+        "geocoded": 0,
+        "last7": 0,
+        "last30": 0,
+        "newest": null,
+        "precision": {}
+      },
+      "outline": {
+        "points": 507,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
+    "TX-Johnson": {
+      "slug": "TX-Johnson",
+      "news": {
+        "total": 0,
+        "geocoded": 0,
+        "last7": 0,
+        "last30": 0,
+        "newest": null,
+        "precision": {}
+      },
+      "outline": {
+        "points": 274,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
+    "TX-Kaufman": {
+      "slug": "TX-Kaufman",
+      "news": {
+        "total": 0,
+        "geocoded": 0,
+        "last7": 0,
+        "last30": 0,
+        "newest": null,
+        "precision": {}
+      },
+      "outline": {
+        "points": 756,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
+    "TX-Montgomery": {
+      "slug": "TX-Montgomery",
+      "news": {
+        "total": 1,
+        "geocoded": 1,
+        "last7": 0,
+        "last30": 1,
+        "newest": "2026-07-30T16:53:40.000Z",
+        "precision": {
+          "address": 1
+        }
+      },
+      "outline": {
+        "points": 3467,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
+    "TX-Parker": {
+      "slug": "TX-Parker",
+      "news": {
+        "total": 0,
+        "geocoded": 0,
+        "last7": 0,
+        "last30": 0,
+        "newest": null,
+        "precision": {}
+      },
+      "outline": {
+        "points": 65,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
+    "TX-Rockwall": {
+      "slug": "TX-Rockwall",
+      "news": {
+        "total": 0,
+        "geocoded": 0,
+        "last7": 0,
+        "last30": 0,
+        "newest": null,
+        "precision": {}
+      },
+      "outline": {
+        "points": 37,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
+    "TX-Tarrant": {
+      "slug": "TX-Tarrant",
+      "news": {
+        "total": 0,
+        "geocoded": 0,
+        "last7": 0,
+        "last30": 0,
+        "newest": null,
+        "precision": {}
+      },
+      "outline": {
+        "points": 71,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
+    "TX-Travis": {
+      "slug": "TX-Travis",
+      "news": {
+        "total": 1,
+        "geocoded": 1,
+        "last7": 1,
+        "last30": 1,
+        "newest": "2026-08-17T14:53:49.000Z",
+        "precision": {
+          "city": 1
+        }
+      },
+      "outline": {
+        "points": 559,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
+    "TX-Waller": {
+      "slug": "TX-Waller",
+      "news": {
+        "total": 0,
+        "geocoded": 0,
+        "last7": 0,
+        "last30": 0,
+        "newest": null,
+        "precision": {}
+      },
+      "outline": {
+        "points": 1959,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
+    "TX-Williamson": {
+      "slug": "TX-Williamson",
+      "news": {
+        "total": 0,
+        "geocoded": 0,
+        "last7": 0,
+        "last30": 0,
+        "newest": null,
+        "precision": {}
+      },
+      "outline": {
+        "points": 656,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
+    "TX-Wise": {
+      "slug": "TX-Wise",
+      "news": {
+        "total": 0,
+        "geocoded": 0,
+        "last7": 0,
+        "last30": 0,
+        "newest": null,
+        "precision": {}
+      },
+      "outline": {
+        "points": 117,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    }
+  },
+  "bestForNews": [
+    {
+      "slug": "FL-Dade",
+      "last30": 28,
+      "last7": 2
+    },
+    {
+      "slug": "FL-Broward",
+      "last30": 11,
+      "last7": 0
+    },
+    {
+      "slug": "FL-Duval",
+      "last30": 8,
+      "last7": 1
+    },
+    {
+      "slug": "FL-Hillsborough",
+      "last30": 8,
+      "last7": 3
+    },
+    {
+      "slug": "FL-Palm-Beach",
+      "last30": 8,
+      "last7": 0
+    },
+    {
+      "slug": "NC-Wake",
+      "last30": 7,
+      "last7": 0
+    },
+    {
+      "slug": "FL-St.-Lucie",
+      "last30": 5,
+      "last7": 0
+    },
+    {
+      "slug": "TX-Harris",
+      "last30": 4,
+      "last7": 0
+    },
+    {
+      "slug": "AZ-Maricopa",
+      "last30": 2,
+      "last7": 0
+    },
+    {
+      "slug": "FL-Collier",
+      "last30": 2,
+      "last7": 0
+    },
+    {
+      "slug": "TX-Collin",
+      "last30": 2,
+      "last7": 0
+    },
+    {
+      "slug": "TX-Denton",
+      "last30": 2,
+      "last7": 1
+    },
+    {
+      "slug": "AZ-Pima",
+      "last30": 1,
+      "last7": 1
+    },
+    {
+      "slug": "FL-Lee",
+      "last30": 1,
+      "last7": 0
+    },
+    {
+      "slug": "FL-Manatee",
+      "last30": 1,
+      "last7": 1
+    },
+    {
+      "slug": "FL-Marion",
+      "last30": 1,
+      "last7": 1
+    },
+    {
+      "slug": "FL-Martin",
+      "last30": 1,
+      "last7": 0
+    },
+    {
+      "slug": "FL-Orange",
+      "last30": 1,
+      "last7": 0
+    },
+    {
+      "slug": "FL-Pasco",
+      "last30": 1,
+      "last7": 0
+    },
+    {
+      "slug": "FL-Polk",
+      "last30": 1,
+      "last7": 1
+    },
+    {
+      "slug": "FL-Sarasota",
+      "last30": 1,
+      "last7": 0
+    },
+    {
+      "slug": "FL-Volusia",
+      "last30": 1,
+      "last7": 0
+    },
+    {
+      "slug": "GA-Chatham",
+      "last30": 1,
+      "last7": 0
+    },
+    {
+      "slug": "GA-Fulton",
+      "last30": 1,
+      "last7": 1
+    },
+    {
+      "slug": "NC-Buncombe",
+      "last30": 1,
+      "last7": 0
+    },
+    {
+      "slug": "NC-Davidson",
+      "last30": 1,
+      "last7": 1
+    },
+    {
+      "slug": "NC-Onslow",
+      "last30": 1,
+      "last7": 1
+    },
+    {
+      "slug": "TX-Brazoria",
+      "last30": 1,
+      "last7": 0
+    },
+    {
+      "slug": "TX-Galveston",
+      "last30": 1,
+      "last7": 0
+    },
+    {
+      "slug": "TX-Montgomery",
+      "last30": 1,
+      "last7": 0
+    },
+    {
+      "slug": "TX-Travis",
+      "last30": 1,
+      "last7": 1
+    },
+    {
+      "slug": "AZ-Apache",
+      "last30": 0,
+      "last7": 0
+    },
+    {
+      "slug": "AZ-Cochise",
+      "last30": 0,
+      "last7": 0
+    },
+    {
+      "slug": "AZ-Coconino",
+      "last30": 0,
+      "last7": 0
+    },
+    {
+      "slug": "AZ-Gila",
+      "last30": 0,
+      "last7": 0
+    },
+    {
+      "slug": "AZ-Greenlee",
+      "last30": 0,
+      "last7": 0
+    },
+    {
+      "slug": "AZ-La-Paz",
+      "last30": 0,
+      "last7": 0
+    },
+    {
+      "slug": "AZ-Pinal",
+      "last30": 0,
+      "last7": 0
+    },
+    {
+      "slug": "AZ-Santa-Cruz",
+      "last30": 0,
+      "last7": 0
+    },
+    {
+      "slug": "AZ-Yuma",
+      "last30": 0,
+      "last7": 0
+    },
+    {
+      "slug": "FL-Alachua",
+      "last30": 0,
+      "last7": 0
+    },
+    {
+      "slug": "FL-Brevard",
+      "last30": 0,
+      "last7": 0
+    },
+    {
+      "slug": "FL-Charlotte",
+      "last30": 0,
+      "last7": 0
+    },
+    {
+      "slug": "FL-Flagler",
+      "last30": 0,
+      "last7": 0
+    },
+    {
+      "slug": "FL-Indian-River",
+      "last30": 0,
+      "last7": 0
+    },
+    {
+      "slug": "FL-Lake",
+      "last30": 0,
+      "last7": 0
+    },
+    {
+      "slug": "FL-Okaloosa",
+      "last30": 0,
+      "last7": 0
+    },
+    {
+      "slug": "FL-Pinellas",
+      "last30": 0,
+      "last7": 0
+    },
+    {
+      "slug": "FL-Seminole",
+      "last30": 0,
+      "last7": 0
+    },
+    {
+      "slug": "FL-St.-Johns",
+      "last30": 0,
+      "last7": 0
+    },
+    {
+      "slug": "TX-Bastrop",
+      "last30": 0,
+      "last7": 0
+    },
+    {
+      "slug": "TX-Brazos",
+      "last30": 0,
+      "last7": 0
+    },
+    {
+      "slug": "TX-Caldwell",
+      "last30": 0,
+      "last7": 0
+    },
+    {
+      "slug": "TX-Dallas",
+      "last30": 0,
+      "last7": 0
+    },
+    {
+      "slug": "TX-Ellis",
+      "last30": 0,
+      "last7": 0
+    },
+    {
+      "slug": "TX-Fort-Bend",
+      "last30": 0,
+      "last7": 0
+    },
+    {
+      "slug": "TX-Hays",
+      "last30": 0,
+      "last7": 0
+    },
+    {
+      "slug": "TX-Hunt",
+      "last30": 0,
+      "last7": 0
+    },
+    {
+      "slug": "TX-Johnson",
+      "last30": 0,
+      "last7": 0
+    },
+    {
+      "slug": "TX-Kaufman",
+      "last30": 0,
+      "last7": 0
+    },
+    {
+      "slug": "TX-Parker",
+      "last30": 0,
+      "last7": 0
+    },
+    {
+      "slug": "TX-Rockwall",
+      "last30": 0,
+      "last7": 0
+    },
+    {
+      "slug": "TX-Tarrant",
+      "last30": 0,
+      "last7": 0
+    },
+    {
+      "slug": "TX-Waller",
+      "last30": 0,
+      "last7": 0
+    },
+    {
+      "slug": "TX-Williamson",
+      "last30": 0,
+      "last7": 0
+    },
+    {
+      "slug": "TX-Wise",
+      "last30": 0,
+      "last7": 0
+    }
+  ],
+  "warnings": [
+    "FL-Martin: outline only 139 pts — will read as a sketch at 1080x1920",
+    "FL-Palm-Beach: outline only 66 pts — will read as a sketch at 1080x1920",
+    "TX-Denton: outline only 120 pts — will read as a sketch at 1080x1920"
+  ]
+}
