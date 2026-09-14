@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-07T15:11:53.726Z",
+  "generated": "2026-09-14T16:01:16.220Z",
   "source": "publish_feed_ci.mjs (GitHub Actions)",
   "counties": {
     "AZ-Apache": {
@@ -127,8 +127,8 @@
       "news": {
         "total": 5,
         "geocoded": 5,
-        "last7": 1,
-        "last30": 5,
+        "last7": 0,
+        "last30": 3,
         "newest": "2026-09-04T13:47:11.000Z",
         "precision": {
           "city": 2,
@@ -151,8 +151,8 @@
       "news": {
         "total": 2,
         "geocoded": 2,
-        "last7": 1,
-        "last30": 2,
+        "last7": 0,
+        "last30": 1,
         "newest": "2026-09-05T15:18:00.000Z",
         "precision": {
           "city": 1,
@@ -174,7 +174,7 @@
       "news": {
         "total": 3,
         "geocoded": 3,
-        "last7": 2,
+        "last7": 0,
         "last30": 3,
         "newest": "2026-09-07T02:44:37.000Z",
         "precision": {
@@ -279,7 +279,7 @@
       "news": {
         "total": 27,
         "geocoded": 27,
-        "last7": 1,
+        "last7": 0,
         "last30": 2,
         "newest": "2026-09-06T11:00:28.000Z",
         "precision": {
@@ -325,7 +325,7 @@
       "news": {
         "total": 14,
         "geocoded": 14,
-        "last7": 1,
+        "last7": 0,
         "last30": 12,
         "newest": "2026-09-02T18:50:00.000Z",
         "precision": {
@@ -348,7 +348,7 @@
       "news": {
         "total": 80,
         "geocoded": 80,
-        "last7": 10,
+        "last7": 0,
         "last30": 24,
         "newest": "2026-09-07T08:11:40.000Z",
         "precision": {
@@ -372,8 +372,8 @@
       "news": {
         "total": 22,
         "geocoded": 22,
-        "last7": 3,
-        "last30": 16,
+        "last7": 0,
+        "last30": 14,
         "newest": "2026-09-04T15:03:00.000Z",
         "precision": {
           "address": 18,
@@ -437,8 +437,8 @@
       "news": {
         "total": 21,
         "geocoded": 21,
-        "last7": 7,
-        "last30": 19,
+        "last7": 0,
+        "last30": 16,
         "newest": "2026-09-03T19:20:00.000Z",
         "precision": {
           "address": 21
@@ -501,8 +501,8 @@
       "news": {
         "total": 16,
         "geocoded": 16,
-        "last7": 3,
-        "last30": 16,
+        "last7": 0,
+        "last30": 15,
         "newest": "2026-09-04T20:45:31.000Z",
         "precision": {
           "address": 16
@@ -523,7 +523,7 @@
       "news": {
         "total": 6,
         "geocoded": 6,
-        "last7": 2,
+        "last7": 0,
         "last30": 6,
         "newest": "2026-09-03T15:47:00.000Z",
         "precision": {
@@ -545,7 +545,7 @@
       "news": {
         "total": 8,
         "geocoded": 8,
-        "last7": 3,
+        "last7": 0,
         "last30": 8,
         "newest": "2026-09-06T16:55:00.000Z",
         "precision": {
@@ -633,7 +633,7 @@
       "news": {
         "total": 3,
         "geocoded": 3,
-        "last7": 1,
+        "last7": 0,
         "last30": 2,
         "newest": "2026-09-01T18:07:35.000Z",
         "precision": {
@@ -655,7 +655,7 @@
       "news": {
         "total": 61,
         "geocoded": 61,
-        "last7": 3,
+        "last7": 0,
         "last30": 11,
         "newest": "2026-09-07T11:00:33.000Z",
         "precision": {
@@ -678,7 +678,7 @@
       "news": {
         "total": 3,
         "geocoded": 3,
-        "last7": 1,
+        "last7": 0,
         "last30": 2,
         "newest": "2026-09-02T15:23:00.000Z",
         "precision": {
@@ -720,7 +720,7 @@
       "news": {
         "total": 2,
         "geocoded": 2,
-        "last7": 1,
+        "last7": 0,
         "last30": 2,
         "newest": "2026-08-31T19:22:08.000Z",
         "precision": {
@@ -742,8 +742,8 @@
       "news": {
         "total": 15,
         "geocoded": 15,
-        "last7": 3,
-        "last30": 15,
+        "last7": 0,
+        "last30": 14,
         "newest": "2026-09-03T17:53:00.000Z",
         "precision": {
           "address": 15
@@ -784,7 +784,7 @@
       "news": {
         "total": 4,
         "geocoded": 4,
-        "last7": 2,
+        "last7": 0,
         "last30": 4,
         "newest": "2026-09-04T19:45:06.000Z",
         "precision": {
@@ -831,7 +831,7 @@
         "total": 1,
         "geocoded": 1,
         "last7": 0,
-        "last30": 1,
+        "last30": 0,
         "newest": "2026-08-13T13:18:10.000Z",
         "precision": {
           "address": 1
@@ -853,7 +853,7 @@
         "total": 12,
         "geocoded": 12,
         "last7": 0,
-        "last30": 1,
+        "last30": 0,
         "newest": "2026-08-09T23:59:01.000Z",
         "precision": {
           "address": 9,
@@ -920,7 +920,7 @@
       "news": {
         "total": 15,
         "geocoded": 15,
-        "last7": 5,
+        "last7": 0,
         "last30": 15,
         "newest": "2026-09-04T19:12:30.000Z",
         "precision": {
@@ -965,7 +965,7 @@
       "news": {
         "total": 4,
         "geocoded": 4,
-        "last7": 2,
+        "last7": 0,
         "last30": 4,
         "newest": "2026-09-06T00:05:00.000Z",
         "precision": {
@@ -1032,7 +1032,7 @@
         "total": 1,
         "geocoded": 1,
         "last7": 0,
-        "last30": 1,
+        "last30": 0,
         "newest": "2026-08-10T11:06:51.000Z",
         "precision": {
           "address": 1
@@ -1075,7 +1075,7 @@
       "news": {
         "total": 7,
         "geocoded": 7,
-        "last7": 5,
+        "last7": 0,
         "last30": 7,
         "newest": "2026-09-04T13:43:11.000Z",
         "precision": {
@@ -1141,7 +1141,7 @@
       "news": {
         "total": 1,
         "geocoded": 1,
-        "last7": 1,
+        "last7": 0,
         "last30": 1,
         "newest": "2026-08-31T22:21:41.000Z",
         "precision": {
@@ -1163,7 +1163,7 @@
       "news": {
         "total": 2,
         "geocoded": 2,
-        "last7": 1,
+        "last7": 0,
         "last30": 2,
         "newest": "2026-09-04T13:45:46.000Z",
         "precision": {
@@ -1185,7 +1185,7 @@
       "news": {
         "total": 1,
         "geocoded": 1,
-        "last7": 1,
+        "last7": 0,
         "last30": 1,
         "newest": "2026-08-31T15:27:11.000Z",
         "precision": {
@@ -1251,7 +1251,7 @@
       "news": {
         "total": 3,
         "geocoded": 3,
-        "last7": 1,
+        "last7": 0,
         "last30": 3,
         "newest": "2026-09-04T13:45:46.000Z",
         "precision": {
@@ -1321,7 +1321,7 @@
         "total": 1,
         "geocoded": 1,
         "last7": 0,
-        "last30": 1,
+        "last30": 0,
         "newest": "2026-08-14T15:23:41.000Z",
         "precision": {
           "address": 1
@@ -1342,7 +1342,7 @@
       "news": {
         "total": 5,
         "geocoded": 5,
-        "last7": 3,
+        "last7": 0,
         "last30": 5,
         "newest": "2026-09-06T11:44:59.000Z",
         "precision": {
@@ -1386,7 +1386,7 @@
       "news": {
         "total": 2,
         "geocoded": 2,
-        "last7": 1,
+        "last7": 0,
         "last30": 2,
         "newest": "2026-09-06T11:44:59.000Z",
         "precision": {
@@ -1430,7 +1430,7 @@
       "news": {
         "total": 2,
         "geocoded": 2,
-        "last7": 1,
+        "last7": 0,
         "last30": 2,
         "newest": "2026-09-04T15:30:15.000Z",
         "precision": {
@@ -1472,7 +1472,7 @@
       "news": {
         "total": 4,
         "geocoded": 4,
-        "last7": 2,
+        "last7": 0,
         "last30": 4,
         "newest": "2026-09-05T10:00:00.000Z",
         "precision": {
@@ -1496,7 +1496,7 @@
         "total": 1,
         "geocoded": 1,
         "last7": 0,
-        "last30": 1,
+        "last30": 0,
         "newest": "2026-08-13T16:37:00.000Z",
         "precision": {
           "city": 1
@@ -1557,8 +1557,8 @@
       "news": {
         "total": 6,
         "geocoded": 6,
-        "last7": 1,
-        "last30": 6,
+        "last7": 0,
+        "last30": 4,
         "newest": "2026-09-03T14:00:00.000Z",
         "precision": {
           "address": 6
@@ -1579,7 +1579,7 @@
       "news": {
         "total": 4,
         "geocoded": 4,
-        "last7": 1,
+        "last7": 0,
         "last30": 4,
         "newest": "2026-09-01T19:51:31.000Z",
         "precision": {
@@ -1603,7 +1603,7 @@
         "total": 8,
         "geocoded": 8,
         "last7": 0,
-        "last30": 6,
+        "last30": 5,
         "newest": "2026-08-26T21:26:00.000Z",
         "precision": {
           "address": 5,
@@ -1667,7 +1667,7 @@
       "news": {
         "total": 2,
         "geocoded": 2,
-        "last7": 1,
+        "last7": 0,
         "last30": 1,
         "newest": "2026-09-07T09:12:52.000Z",
         "precision": {
@@ -1689,8 +1689,8 @@
       "news": {
         "total": 8,
         "geocoded": 8,
-        "last7": 1,
-        "last30": 6,
+        "last7": 0,
+        "last30": 4,
         "newest": "2026-09-02T12:04:17.000Z",
         "precision": {
           "address": 8
@@ -1711,7 +1711,7 @@
       "news": {
         "total": 2,
         "geocoded": 2,
-        "last7": 1,
+        "last7": 0,
         "last30": 2,
         "newest": "2026-09-02T20:50:00.000Z",
         "precision": {
@@ -1858,7 +1858,7 @@
       "news": {
         "total": 6,
         "geocoded": 6,
-        "last7": 1,
+        "last7": 0,
         "last30": 6,
         "newest": "2026-09-06T22:00:00.000Z",
         "precision": {
@@ -1987,112 +1987,112 @@
     {
       "slug": "FL-Dade",
       "last30": 24,
-      "last7": 10
+      "last7": 0
     },
     {
       "slug": "FL-Hillsborough",
-      "last30": 19,
-      "last7": 7
-    },
-    {
-      "slug": "FL-Duval",
       "last30": 16,
-      "last7": 3
+      "last7": 0
     },
     {
       "slug": "FL-Lee",
-      "last30": 16,
-      "last7": 3
-    },
-    {
-      "slug": "FL-Sarasota",
       "last30": 15,
-      "last7": 3
+      "last7": 0
     },
     {
       "slug": "GA-Fulton",
       "last30": 15,
-      "last7": 5
+      "last7": 0
+    },
+    {
+      "slug": "FL-Duval",
+      "last30": 14,
+      "last7": 0
+    },
+    {
+      "slug": "FL-Sarasota",
+      "last30": 14,
+      "last7": 0
     },
     {
       "slug": "FL-Collier",
       "last30": 12,
-      "last7": 1
+      "last7": 0
     },
     {
       "slug": "FL-Palm-Beach",
       "last30": 11,
-      "last7": 3
+      "last7": 0
     },
     {
       "slug": "FL-Marion",
       "last30": 8,
-      "last7": 3
+      "last7": 0
     },
     {
       "slug": "NC-Cumberland",
       "last30": 7,
-      "last7": 5
+      "last7": 0
     },
     {
       "slug": "FL-Manatee",
       "last30": 6,
-      "last7": 2
-    },
-    {
-      "slug": "TX-Collin",
-      "last30": 6,
-      "last7": 1
-    },
-    {
-      "slug": "TX-Denton",
-      "last30": 6,
       "last7": 0
-    },
-    {
-      "slug": "TX-Harris",
-      "last30": 6,
-      "last7": 1
     },
     {
       "slug": "TX-Tarrant",
       "last30": 6,
-      "last7": 1
-    },
-    {
-      "slug": "AZ-Maricopa",
-      "last30": 5,
-      "last7": 1
+      "last7": 0
     },
     {
       "slug": "SC-Greenville",
       "last30": 5,
-      "last7": 3
+      "last7": 0
+    },
+    {
+      "slug": "TX-Denton",
+      "last30": 5,
+      "last7": 0
     },
     {
       "slug": "FL-St.-Johns",
       "last30": 4,
-      "last7": 2
+      "last7": 0
     },
     {
       "slug": "GA-Henry",
       "last30": 4,
-      "last7": 2
+      "last7": 0
     },
     {
       "slug": "TX-Bexar",
       "last30": 4,
-      "last7": 2
+      "last7": 0
+    },
+    {
+      "slug": "TX-Collin",
+      "last30": 4,
+      "last7": 0
     },
     {
       "slug": "TX-Dallas",
       "last30": 4,
-      "last7": 1
+      "last7": 0
+    },
+    {
+      "slug": "TX-Harris",
+      "last30": 4,
+      "last7": 0
+    },
+    {
+      "slug": "AZ-Maricopa",
+      "last30": 3,
+      "last7": 0
     },
     {
       "slug": "AZ-Pinal",
       "last30": 3,
-      "last7": 2
+      "last7": 0
     },
     {
       "slug": "FL-St.-Lucie",
@@ -2102,17 +2102,12 @@
     {
       "slug": "NC-Union",
       "last30": 3,
-      "last7": 1
+      "last7": 0
     },
     {
       "slug": "TX-Travis",
       "last30": 3,
       "last7": 0
-    },
-    {
-      "slug": "AZ-Pima",
-      "last30": 2,
-      "last7": 1
     },
     {
       "slug": "FL-Alachua",
@@ -2122,22 +2117,22 @@
     {
       "slug": "FL-Broward",
       "last30": 2,
-      "last7": 1
+      "last7": 0
     },
     {
       "slug": "FL-Orange",
       "last30": 2,
-      "last7": 1
+      "last7": 0
     },
     {
       "slug": "FL-Pasco",
       "last30": 2,
-      "last7": 1
+      "last7": 0
     },
     {
       "slug": "FL-Polk",
       "last30": 2,
-      "last7": 1
+      "last7": 0
     },
     {
       "slug": "GA-Clayton",
@@ -2147,7 +2142,7 @@
     {
       "slug": "NC-Mecklenburg",
       "last30": 2,
-      "last7": 1
+      "last7": 0
     },
     {
       "slug": "SC-Berkeley",
@@ -2157,17 +2152,22 @@
     {
       "slug": "SC-Spartanburg",
       "last30": 2,
-      "last7": 1
+      "last7": 0
     },
     {
       "slug": "SC-York",
       "last30": 2,
-      "last7": 1
+      "last7": 0
     },
     {
       "slug": "TX-Hays",
       "last30": 2,
-      "last7": 1
+      "last7": 0
+    },
+    {
+      "slug": "AZ-Pima",
+      "last30": 1,
+      "last7": 0
     },
     {
       "slug": "FL-Charlotte",
@@ -2181,16 +2181,6 @@
     },
     {
       "slug": "FL-Indian-River",
-      "last30": 1,
-      "last7": 0
-    },
-    {
-      "slug": "FL-Volusia",
-      "last30": 1,
-      "last7": 0
-    },
-    {
-      "slug": "GA-Chatham",
       "last30": 1,
       "last7": 0
     },
@@ -2215,11 +2205,6 @@
       "last7": 0
     },
     {
-      "slug": "NC-Buncombe",
-      "last30": 1,
-      "last7": 0
-    },
-    {
       "slug": "NC-Cabarrus",
       "last30": 1,
       "last7": 0
@@ -2237,12 +2222,12 @@
     {
       "slug": "NC-Guilford",
       "last30": 1,
-      "last7": 1
+      "last7": 0
     },
     {
       "slug": "NC-Nash",
       "last30": 1,
-      "last7": 1
+      "last7": 0
     },
     {
       "slug": "NC-Onslow",
@@ -2260,22 +2245,12 @@
       "last7": 0
     },
     {
-      "slug": "SC-Charleston",
-      "last30": 1,
-      "last7": 0
-    },
-    {
       "slug": "SC-Saluda",
       "last30": 1,
       "last7": 0
     },
     {
       "slug": "SC-Union",
-      "last30": 1,
-      "last7": 0
-    },
-    {
-      "slug": "TX-Brazoria",
       "last30": 1,
       "last7": 0
     },
@@ -2287,7 +2262,7 @@
     {
       "slug": "TX-Galveston",
       "last30": 1,
-      "last7": 1
+      "last7": 0
     },
     {
       "slug": "TX-Kaufman",
@@ -2385,7 +2360,32 @@
       "last7": 0
     },
     {
+      "slug": "FL-Volusia",
+      "last30": 0,
+      "last7": 0
+    },
+    {
+      "slug": "GA-Chatham",
+      "last30": 0,
+      "last7": 0
+    },
+    {
+      "slug": "NC-Buncombe",
+      "last30": 0,
+      "last7": 0
+    },
+    {
+      "slug": "SC-Charleston",
+      "last30": 0,
+      "last7": 0
+    },
+    {
       "slug": "TX-Bastrop",
+      "last30": 0,
+      "last7": 0
+    },
+    {
+      "slug": "TX-Brazoria",
       "last30": 0,
       "last7": 0
     },
@@ -2445,7 +2445,6 @@
     "FL-Palm-Beach: outline only 66 pts — will read as a sketch at 1080x1920",
     "NC-Guilford: outline only 118 pts — will read as a sketch at 1080x1920",
     "SC-Berkeley: outline only 59 pts — will read as a sketch at 1080x1920",
-    "SC-Charleston: outline only 50 pts — will read as a sketch at 1080x1920",
     "SC-Greenville: outline only 40 pts — will read as a sketch at 1080x1920",
     "TX-Tarrant: outline only 142 pts — will read as a sketch at 1080x1920"
   ]
