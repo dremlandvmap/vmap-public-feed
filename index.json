@@ -1,17 +1,39 @@
 {
-  "generated": "2026-09-28T17:51:31.612Z",
+  "generated": "2026-10-05T18:48:12.469Z",
   "source": "publish_feed_ci.mjs (GitHub Actions)",
   "counties": {
-    "AL-Chambers": {
-      "slug": "AL-Chambers",
+    "AL-Blount": {
+      "slug": "AL-Blount",
       "news": {
         "total": 1,
         "geocoded": 1,
         "last7": 1,
         "last30": 1,
-        "newest": "2026-09-23T20:30:26.000Z",
+        "newest": "2026-10-05T14:21:59.000Z",
         "precision": {
-          "address": 1
+          "city": 1
+        }
+      },
+      "outline": {
+        "points": 2428,
+        "bbox": {
+          "w": 33.76517,
+          "e": 34.26048,
+          "s": -86.96336,
+          "n": -86.30352
+        }
+      }
+    },
+    "AL-Chambers": {
+      "slug": "AL-Chambers",
+      "news": {
+        "total": 2,
+        "geocoded": 2,
+        "last7": 0,
+        "last30": 2,
+        "newest": "2026-09-28T13:34:37.000Z",
+        "precision": {
+          "address": 2
         }
       },
       "outline": {
@@ -29,7 +51,7 @@
       "news": {
         "total": 1,
         "geocoded": 1,
-        "last7": 1,
+        "last7": 0,
         "last30": 1,
         "newest": "2026-09-23T13:43:12.000Z",
         "precision": {
@@ -43,6 +65,28 @@
           "e": 31.99135,
           "s": -88.18082,
           "n": -87.50093
+        }
+      }
+    },
+    "AL-Dallas": {
+      "slug": "AL-Dallas",
+      "news": {
+        "total": 1,
+        "geocoded": 1,
+        "last7": 0,
+        "last30": 1,
+        "newest": "2026-09-28T14:03:21.000Z",
+        "precision": {
+          "city": 1
+        }
+      },
+      "outline": {
+        "points": 3513,
+        "bbox": {
+          "w": 32.0472,
+          "e": 32.72953,
+          "s": -87.47308,
+          "n": -86.80687
         }
       }
     },
@@ -71,13 +115,13 @@
     "AL-Houston": {
       "slug": "AL-Houston",
       "news": {
-        "total": 1,
-        "geocoded": 1,
+        "total": 2,
+        "geocoded": 2,
         "last7": 1,
-        "last30": 1,
-        "newest": "2026-09-23T14:22:55.000Z",
+        "last30": 2,
+        "newest": "2026-10-05T14:21:59.000Z",
         "precision": {
-          "city": 1
+          "city": 2
         }
       },
       "outline": {
@@ -93,12 +137,13 @@
     "AL-Jefferson": {
       "slug": "AL-Jefferson",
       "news": {
-        "total": 1,
-        "geocoded": 1,
-        "last7": 0,
-        "last30": 1,
-        "newest": "2026-09-21T15:05:27.000Z",
+        "total": 3,
+        "geocoded": 3,
+        "last7": 1,
+        "last30": 3,
+        "newest": "2026-10-05T13:30:16.000Z",
         "precision": {
+          "city": 2,
           "address": 1
         }
       },
@@ -117,7 +162,7 @@
       "news": {
         "total": 2,
         "geocoded": 2,
-        "last7": 2,
+        "last7": 0,
         "last30": 2,
         "newest": "2026-09-23T17:30:48.000Z",
         "precision": {
@@ -159,13 +204,13 @@
     "AL-Madison": {
       "slug": "AL-Madison",
       "news": {
-        "total": 3,
-        "geocoded": 3,
-        "last7": 2,
-        "last30": 3,
-        "newest": "2026-09-23T16:50:00.000Z",
+        "total": 6,
+        "geocoded": 6,
+        "last7": 1,
+        "last30": 6,
+        "newest": "2026-10-02T17:53:33.000Z",
         "precision": {
-          "address": 2,
+          "address": 5,
           "city": 1
         }
       },
@@ -184,7 +229,7 @@
       "news": {
         "total": 1,
         "geocoded": 1,
-        "last7": 1,
+        "last7": 0,
         "last30": 1,
         "newest": "2026-09-23T13:35:48.000Z",
         "precision": {
@@ -201,16 +246,38 @@
         }
       }
     },
+    "AL-Marion": {
+      "slug": "AL-Marion",
+      "news": {
+        "total": 1,
+        "geocoded": 1,
+        "last7": 0,
+        "last30": 1,
+        "newest": "2026-09-28T13:52:24.000Z",
+        "precision": {
+          "city": 1
+        }
+      },
+      "outline": {
+        "points": 151,
+        "bbox": {
+          "w": 33.91472,
+          "e": 34.32105,
+          "s": -88.20723,
+          "n": -87.63432
+        }
+      }
+    },
     "AL-Mobile": {
       "slug": "AL-Mobile",
       "news": {
-        "total": 2,
-        "geocoded": 2,
+        "total": 3,
+        "geocoded": 3,
         "last7": 1,
-        "last30": 2,
-        "newest": "2026-09-24T03:09:52.000Z",
+        "last30": 3,
+        "newest": "2026-10-05T14:50:28.000Z",
         "precision": {
-          "address": 1,
+          "address": 2,
           "city": 1
         }
       },
@@ -227,13 +294,13 @@
     "AL-Montgomery": {
       "slug": "AL-Montgomery",
       "news": {
-        "total": 3,
-        "geocoded": 3,
-        "last7": 0,
-        "last30": 3,
-        "newest": "2026-09-21T15:17:13.000Z",
+        "total": 4,
+        "geocoded": 4,
+        "last7": 1,
+        "last30": 4,
+        "newest": "2026-09-30T20:08:19.000Z",
         "precision": {
-          "address": 3
+          "address": 4
         }
       },
       "outline": {
@@ -246,12 +313,34 @@
         }
       }
     },
+    "AL-Morgan": {
+      "slug": "AL-Morgan",
+      "news": {
+        "total": 1,
+        "geocoded": 1,
+        "last7": 0,
+        "last30": 1,
+        "newest": "2026-09-28T13:34:37.000Z",
+        "precision": {
+          "address": 1
+        }
+      },
+      "outline": {
+        "points": 423,
+        "bbox": {
+          "w": 34.30469,
+          "e": 34.68604,
+          "s": -87.1102,
+          "n": -86.54975
+        }
+      }
+    },
     "AL-St.-Clair": {
       "slug": "AL-St.-Clair",
       "news": {
         "total": 1,
         "geocoded": 1,
-        "last7": 1,
+        "last7": 0,
         "last30": 1,
         "newest": "2026-09-23T14:22:55.000Z",
         "precision": {
@@ -273,7 +362,7 @@
       "news": {
         "total": 1,
         "geocoded": 1,
-        "last7": 1,
+        "last7": 0,
         "last30": 1,
         "newest": "2026-09-22T16:07:51.000Z",
         "precision": {
@@ -413,14 +502,14 @@
     "AZ-Maricopa": {
       "slug": "AZ-Maricopa",
       "news": {
-        "total": 6,
-        "geocoded": 6,
-        "last7": 1,
-        "last30": 2,
-        "newest": "2026-09-23T13:48:13.000Z",
+        "total": 8,
+        "geocoded": 8,
+        "last7": 0,
+        "last30": 3,
+        "newest": "2026-09-28T14:03:21.000Z",
         "precision": {
-          "address": 3,
-          "city": 2,
+          "city": 3,
+          "address": 4,
           "intersection": 1
         }
       },
@@ -437,14 +526,14 @@
     "AZ-Pima": {
       "slug": "AZ-Pima",
       "news": {
-        "total": 5,
-        "geocoded": 5,
+        "total": 6,
+        "geocoded": 6,
         "last7": 0,
         "last30": 4,
-        "newest": "2026-09-11T14:25:00.000Z",
+        "newest": "2026-09-28T13:32:04.000Z",
         "precision": {
-          "address": 4,
-          "city": 1
+          "city": 2,
+          "address": 4
         }
       },
       "outline": {
@@ -463,7 +552,7 @@
         "total": 3,
         "geocoded": 3,
         "last7": 0,
-        "last30": 2,
+        "last30": 1,
         "newest": "2026-09-07T02:44:37.000Z",
         "precision": {
           "city": 2,
@@ -525,7 +614,7 @@
       "news": {
         "total": 1,
         "geocoded": 1,
-        "last7": 1,
+        "last7": 0,
         "last30": 1,
         "newest": "2026-09-23T13:43:12.000Z",
         "precision": {
@@ -547,7 +636,7 @@
       "news": {
         "total": 1,
         "geocoded": 1,
-        "last7": 1,
+        "last7": 0,
         "last30": 1,
         "newest": "2026-09-23T14:22:55.000Z",
         "precision": {
@@ -567,17 +656,40 @@
     "CA-Los-Angeles": {
       "slug": "CA-Los-Angeles",
       "news": {
-        "total": 1,
-        "geocoded": 1,
+        "total": 3,
+        "geocoded": 3,
         "last7": 1,
-        "last30": 1,
-        "newest": "2026-09-23T18:20:26.000Z",
+        "last30": 3,
+        "newest": "2026-10-05T13:26:00.000Z",
         "precision": {
-          "address": 1
+          "address": 2,
+          "city": 1
         }
       },
       "outline": {
         "points": 825,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
+    "CA-Orange": {
+      "slug": "CA-Orange",
+      "news": {
+        "total": 1,
+        "geocoded": 1,
+        "last7": 1,
+        "last30": 1,
+        "newest": "2026-10-05T13:29:00.000Z",
+        "precision": {
+          "city": 1
+        }
+      },
+      "outline": {
+        "points": 261,
         "bbox": {
           "w": 180,
           "e": -180,
@@ -608,15 +720,60 @@
         }
       }
     },
-    "CA-San-Francisco": {
-      "slug": "CA-San-Francisco",
+    "CA-San-Bernardino": {
+      "slug": "CA-San-Bernardino",
       "news": {
         "total": 1,
         "geocoded": 1,
-        "last7": 0,
+        "last7": 1,
         "last30": 1,
-        "newest": "2026-09-14T14:15:51.000Z",
+        "newest": "2026-10-05T13:28:00.000Z",
         "precision": {
+          "address": 1
+        }
+      },
+      "outline": {
+        "points": 1125,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
+    "CA-San-Diego": {
+      "slug": "CA-San-Diego",
+      "news": {
+        "total": 1,
+        "geocoded": 1,
+        "last7": 1,
+        "last30": 1,
+        "newest": "2026-10-05T13:30:02.000Z",
+        "precision": {
+          "city": 1
+        }
+      },
+      "outline": {
+        "points": 228,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
+    "CA-San-Francisco": {
+      "slug": "CA-San-Francisco",
+      "news": {
+        "total": 2,
+        "geocoded": 2,
+        "last7": 0,
+        "last30": 2,
+        "newest": "2026-09-28T14:17:21.000Z",
+        "precision": {
+          "city": 1,
           "address": 1
         }
       },
@@ -630,12 +787,56 @@
         }
       }
     },
+    "CA-San-Mateo": {
+      "slug": "CA-San-Mateo",
+      "news": {
+        "total": 1,
+        "geocoded": 1,
+        "last7": 0,
+        "last30": 1,
+        "newest": "2026-09-28T13:34:37.000Z",
+        "precision": {
+          "address": 1
+        }
+      },
+      "outline": {
+        "points": 1054,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
+    "CA-Santa-Clara": {
+      "slug": "CA-Santa-Clara",
+      "news": {
+        "total": 1,
+        "geocoded": 1,
+        "last7": 0,
+        "last30": 1,
+        "newest": "2026-09-28T13:34:37.000Z",
+        "precision": {
+          "address": 1
+        }
+      },
+      "outline": {
+        "points": 3214,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
     "CA-Shasta": {
       "slug": "CA-Shasta",
       "news": {
         "total": 1,
         "geocoded": 1,
-        "last7": 1,
+        "last7": 0,
         "last30": 1,
         "newest": "2026-09-23T14:22:55.000Z",
         "precision": {
@@ -697,14 +898,14 @@
     "FL-Broward": {
       "slug": "FL-Broward",
       "news": {
-        "total": 32,
-        "geocoded": 32,
-        "last7": 3,
-        "last30": 7,
-        "newest": "2026-09-23T17:30:48.000Z",
+        "total": 34,
+        "geocoded": 34,
+        "last7": 0,
+        "last30": 8,
+        "newest": "2026-09-28T14:16:05.000Z",
         "precision": {
-          "address": 19,
-          "city": 10,
+          "city": 11,
+          "address": 20,
           "intersection": 3
         }
       },
@@ -721,13 +922,13 @@
     "FL-Charlotte": {
       "slug": "FL-Charlotte",
       "news": {
-        "total": 1,
-        "geocoded": 1,
-        "last7": 0,
-        "last30": 0,
-        "newest": "2026-08-28T14:39:00.000Z",
+        "total": 2,
+        "geocoded": 2,
+        "last7": 1,
+        "last30": 1,
+        "newest": "2026-10-01T18:14:00.000Z",
         "precision": {
-          "address": 1
+          "address": 2
         }
       },
       "outline": {
@@ -743,13 +944,13 @@
     "FL-Collier": {
       "slug": "FL-Collier",
       "news": {
-        "total": 17,
-        "geocoded": 17,
-        "last7": 2,
-        "last30": 4,
-        "newest": "2026-09-23T19:45:00.000Z",
+        "total": 24,
+        "geocoded": 24,
+        "last7": 4,
+        "last30": 10,
+        "newest": "2026-10-02T15:00:00.000Z",
         "precision": {
-          "address": 14,
+          "address": 21,
           "city": 3
         }
       },
@@ -768,12 +969,12 @@
       "news": {
         "total": 80,
         "geocoded": 80,
-        "last7": 6,
-        "last30": 23,
-        "newest": "2026-09-23T22:24:39.000Z",
+        "last7": 7,
+        "last30": 22,
+        "newest": "2026-10-05T09:49:08.000Z",
         "precision": {
-          "address": 60,
-          "city": 18,
+          "address": 65,
+          "city": 13,
           "intersection": 2
         }
       },
@@ -790,13 +991,13 @@
     "FL-Duval": {
       "slug": "FL-Duval",
       "news": {
-        "total": 37,
-        "geocoded": 37,
-        "last7": 4,
-        "last30": 18,
-        "newest": "2026-09-23T17:24:00.000Z",
+        "total": 44,
+        "geocoded": 44,
+        "last7": 5,
+        "last30": 22,
+        "newest": "2026-10-02T14:59:17.000Z",
         "precision": {
-          "address": 31,
+          "address": 38,
           "city": 6
         }
       },
@@ -855,13 +1056,14 @@
     "FL-Hillsborough": {
       "slug": "FL-Hillsborough",
       "news": {
-        "total": 30,
-        "geocoded": 30,
-        "last7": 2,
-        "last30": 16,
-        "newest": "2026-09-23T12:00:00.000Z",
+        "total": 38,
+        "geocoded": 38,
+        "last7": 3,
+        "last30": 17,
+        "newest": "2026-10-05T13:36:50.000Z",
         "precision": {
-          "address": 30
+          "city": 2,
+          "address": 36
         }
       },
       "outline": {
@@ -880,7 +1082,7 @@
         "total": 1,
         "geocoded": 1,
         "last7": 0,
-        "last30": 1,
+        "last30": 0,
         "newest": "2026-08-30T04:00:00.000Z",
         "precision": {
           "address": 1
@@ -919,13 +1121,13 @@
     "FL-Lee": {
       "slug": "FL-Lee",
       "news": {
-        "total": 20,
-        "geocoded": 20,
-        "last7": 2,
-        "last30": 7,
-        "newest": "2026-09-23T20:05:30.000Z",
+        "total": 28,
+        "geocoded": 28,
+        "last7": 7,
+        "last30": 12,
+        "newest": "2026-10-05T12:55:00.000Z",
         "precision": {
-          "address": 20
+          "address": 28
         }
       },
       "outline": {
@@ -943,8 +1145,8 @@
       "news": {
         "total": 13,
         "geocoded": 13,
-        "last7": 2,
-        "last30": 9,
+        "last7": 0,
+        "last30": 7,
         "newest": "2026-09-23T15:58:00.000Z",
         "precision": {
           "address": 13
@@ -963,13 +1165,13 @@
     "FL-Marion": {
       "slug": "FL-Marion",
       "news": {
-        "total": 11,
-        "geocoded": 11,
-        "last7": 1,
-        "last30": 9,
-        "newest": "2026-09-22T15:55:00.000Z",
+        "total": 13,
+        "geocoded": 13,
+        "last7": 0,
+        "last30": 6,
+        "newest": "2026-09-28T12:55:00.000Z",
         "precision": {
-          "address": 8,
+          "address": 10,
           "city": 3
         }
       },
@@ -989,11 +1191,10 @@
         "total": 3,
         "geocoded": 3,
         "last7": 0,
-        "last30": 0,
-        "newest": "2026-07-27T15:59:31.000Z",
+        "last30": 1,
+        "newest": "2026-09-28T14:17:21.000Z",
         "precision": {
-          "city": 2,
-          "address": 1
+          "city": 3
         }
       },
       "outline": {
@@ -1051,14 +1252,14 @@
     "FL-Orange": {
       "slug": "FL-Orange",
       "news": {
-        "total": 5,
-        "geocoded": 5,
-        "last7": 1,
+        "total": 6,
+        "geocoded": 6,
+        "last7": 0,
         "last30": 3,
-        "newest": "2026-09-22T11:00:09.000Z",
+        "newest": "2026-09-28T14:17:21.000Z",
         "precision": {
-          "address": 4,
-          "city": 1
+          "city": 2,
+          "address": 4
         }
       },
       "outline": {
@@ -1071,17 +1272,39 @@
         }
       }
     },
+    "FL-Osceola": {
+      "slug": "FL-Osceola",
+      "news": {
+        "total": 2,
+        "geocoded": 2,
+        "last7": 2,
+        "last30": 2,
+        "newest": "2026-09-29T10:39:51.000Z",
+        "precision": {
+          "address": 2
+        }
+      },
+      "outline": {
+        "points": 2380,
+        "bbox": {
+          "w": 27.642,
+          "e": 28.34858,
+          "s": -81.65727,
+          "n": -80.8614
+        }
+      }
+    },
     "FL-Palm-Beach": {
       "slug": "FL-Palm-Beach",
       "news": {
-        "total": 66,
-        "geocoded": 66,
-        "last7": 4,
-        "last30": 14,
-        "newest": "2026-09-23T17:30:48.000Z",
+        "total": 68,
+        "geocoded": 68,
+        "last7": 2,
+        "last30": 11,
+        "newest": "2026-10-02T06:42:04.000Z",
         "precision": {
-          "address": 51,
-          "city": 15
+          "address": 52,
+          "city": 16
         }
       },
       "outline": {
@@ -1097,13 +1320,14 @@
     "FL-Pasco": {
       "slug": "FL-Pasco",
       "news": {
-        "total": 4,
-        "geocoded": 4,
-        "last7": 0,
-        "last30": 2,
-        "newest": "2026-09-08T20:15:00.000Z",
+        "total": 6,
+        "geocoded": 6,
+        "last7": 2,
+        "last30": 3,
+        "newest": "2026-10-05T16:45:33.000Z",
         "precision": {
-          "address": 4
+          "city": 1,
+          "address": 5
         }
       },
       "outline": {
@@ -1119,13 +1343,15 @@
     "FL-Pinellas": {
       "slug": "FL-Pinellas",
       "news": {
-        "total": 2,
-        "geocoded": 2,
-        "last7": 0,
-        "last30": 2,
-        "newest": "2026-09-18T20:15:00.000Z",
+        "total": 9,
+        "geocoded": 9,
+        "last7": 5,
+        "last30": 9,
+        "newest": "2026-10-05T13:39:27.000Z",
         "precision": {
-          "address": 2
+          "city": 2,
+          "intersection": 1,
+          "address": 6
         }
       },
       "outline": {
@@ -1141,13 +1367,13 @@
     "FL-Polk": {
       "slug": "FL-Polk",
       "news": {
-        "total": 3,
-        "geocoded": 3,
+        "total": 4,
+        "geocoded": 4,
         "last7": 0,
         "last30": 2,
-        "newest": "2026-09-10T17:15:00.000Z",
+        "newest": "2026-09-24T10:28:00.000Z",
         "precision": {
-          "address": 3
+          "address": 4
         }
       },
       "outline": {
@@ -1163,13 +1389,13 @@
     "FL-Sarasota": {
       "slug": "FL-Sarasota",
       "news": {
-        "total": 34,
-        "geocoded": 34,
-        "last7": 7,
-        "last30": 23,
-        "newest": "2026-09-23T16:32:00.000Z",
+        "total": 41,
+        "geocoded": 41,
+        "last7": 4,
+        "last30": 26,
+        "newest": "2026-10-02T12:18:00.000Z",
         "precision": {
-          "address": 34
+          "address": 41
         }
       },
       "outline": {
@@ -1185,12 +1411,13 @@
     "FL-Seminole": {
       "slug": "FL-Seminole",
       "news": {
-        "total": 1,
-        "geocoded": 1,
+        "total": 2,
+        "geocoded": 2,
         "last7": 0,
-        "last30": 1,
-        "newest": "2026-09-14T13:32:27.000Z",
+        "last30": 2,
+        "newest": "2026-09-24T15:36:00.000Z",
         "precision": {
+          "address": 1,
           "city": 1
         }
       },
@@ -1207,14 +1434,14 @@
     "FL-St.-Johns": {
       "slug": "FL-St.-Johns",
       "news": {
-        "total": 5,
-        "geocoded": 5,
-        "last7": 1,
-        "last30": 3,
-        "newest": "2026-09-22T17:54:24.000Z",
+        "total": 9,
+        "geocoded": 9,
+        "last7": 2,
+        "last30": 5,
+        "newest": "2026-10-05T13:45:03.000Z",
         "precision": {
-          "address": 3,
-          "city": 2
+          "address": 6,
+          "city": 3
         }
       },
       "outline": {
@@ -1233,8 +1460,8 @@
         "total": 26,
         "geocoded": 26,
         "last7": 0,
-        "last30": 2,
-        "newest": "2026-08-30T16:35:00.000Z",
+        "last30": 1,
+        "newest": "2026-09-24T06:07:00.000Z",
         "precision": {
           "address": 15,
           "city": 11
@@ -1299,13 +1526,13 @@
     "GA-Clayton": {
       "slug": "GA-Clayton",
       "news": {
-        "total": 4,
-        "geocoded": 4,
-        "last7": 2,
-        "last30": 2,
-        "newest": "2026-09-23T07:30:00.000Z",
+        "total": 5,
+        "geocoded": 5,
+        "last7": 1,
+        "last30": 3,
+        "newest": "2026-10-04T21:42:00.000Z",
         "precision": {
-          "address": 4
+          "address": 5
         }
       },
       "outline": {
@@ -1321,13 +1548,13 @@
     "GA-Forsyth": {
       "slug": "GA-Forsyth",
       "news": {
-        "total": 1,
-        "geocoded": 1,
-        "last7": 0,
-        "last30": 0,
-        "newest": "2026-08-19T22:05:12.000Z",
+        "total": 2,
+        "geocoded": 2,
+        "last7": 1,
+        "last30": 1,
+        "newest": "2026-10-02T22:07:28.000Z",
         "precision": {
-          "city": 1
+          "city": 2
         }
       },
       "outline": {
@@ -1343,14 +1570,14 @@
     "GA-Fulton": {
       "slug": "GA-Fulton",
       "news": {
-        "total": 25,
-        "geocoded": 25,
-        "last7": 3,
-        "last30": 17,
-        "newest": "2026-09-23T19:57:46.000Z",
+        "total": 37,
+        "geocoded": 37,
+        "last7": 6,
+        "last30": 22,
+        "newest": "2026-10-02T20:08:08.000Z",
         "precision": {
-          "address": 23,
-          "city": 2
+          "address": 34,
+          "city": 3
         }
       },
       "outline": {
@@ -1390,8 +1617,8 @@
       "news": {
         "total": 6,
         "geocoded": 6,
-        "last7": 2,
-        "last30": 4,
+        "last7": 0,
+        "last30": 3,
         "newest": "2026-09-23T13:35:48.000Z",
         "precision": {
           "city": 1,
@@ -1411,12 +1638,13 @@
     "GA-Jackson": {
       "slug": "GA-Jackson",
       "news": {
-        "total": 1,
-        "geocoded": 1,
-        "last7": 0,
-        "last30": 0,
-        "newest": "2026-08-28T14:16:13.000Z",
+        "total": 2,
+        "geocoded": 2,
+        "last7": 1,
+        "last30": 1,
+        "newest": "2026-10-05T13:30:16.000Z",
         "precision": {
+          "city": 1,
           "address": 1
         }
       },
@@ -1433,13 +1661,13 @@
     "GA-Muscogee": {
       "slug": "GA-Muscogee",
       "news": {
-        "total": 1,
-        "geocoded": 1,
+        "total": 2,
+        "geocoded": 2,
         "last7": 0,
-        "last30": 0,
-        "newest": "2026-08-28T15:00:00.000Z",
+        "last30": 1,
+        "newest": "2026-09-28T13:27:00.000Z",
         "precision": {
-          "city": 1
+          "city": 2
         }
       },
       "outline": {
@@ -1455,13 +1683,13 @@
     "NC-Buncombe": {
       "slug": "NC-Buncombe",
       "news": {
-        "total": 1,
-        "geocoded": 1,
-        "last7": 0,
-        "last30": 0,
-        "newest": "2026-08-10T11:06:51.000Z",
+        "total": 3,
+        "geocoded": 3,
+        "last7": 1,
+        "last30": 2,
+        "newest": "2026-10-04T18:50:00.000Z",
         "precision": {
-          "address": 1
+          "address": 3
         }
       },
       "outline": {
@@ -1499,13 +1727,13 @@
     "NC-Caldwell": {
       "slug": "NC-Caldwell",
       "news": {
-        "total": 1,
-        "geocoded": 1,
+        "total": 2,
+        "geocoded": 2,
         "last7": 1,
-        "last30": 1,
-        "newest": "2026-09-23T20:30:26.000Z",
+        "last30": 2,
+        "newest": "2026-10-02T17:53:33.000Z",
         "precision": {
-          "address": 1
+          "address": 2
         }
       },
       "outline": {
@@ -1521,13 +1749,13 @@
     "NC-Cumberland": {
       "slug": "NC-Cumberland",
       "news": {
-        "total": 15,
-        "geocoded": 15,
-        "last7": 3,
-        "last30": 13,
-        "newest": "2026-09-23T18:26:11.000Z",
+        "total": 22,
+        "geocoded": 22,
+        "last7": 5,
+        "last30": 15,
+        "newest": "2026-10-05T17:05:19.000Z",
         "precision": {
-          "address": 15
+          "address": 22
         }
       },
       "outline": {
@@ -1545,7 +1773,7 @@
       "news": {
         "total": 2,
         "geocoded": 2,
-        "last7": 1,
+        "last7": 0,
         "last30": 1,
         "newest": "2026-09-23T17:20:11.000Z",
         "precision": {
@@ -1568,7 +1796,7 @@
       "news": {
         "total": 2,
         "geocoded": 2,
-        "last7": 2,
+        "last7": 0,
         "last30": 2,
         "newest": "2026-09-23T21:00:52.000Z",
         "precision": {
@@ -1614,7 +1842,7 @@
         "total": 1,
         "geocoded": 1,
         "last7": 0,
-        "last30": 1,
+        "last30": 0,
         "newest": "2026-08-31T13:17:52.000Z",
         "precision": {
           "city": 1
@@ -1636,7 +1864,7 @@
         "total": 2,
         "geocoded": 2,
         "last7": 0,
-        "last30": 2,
+        "last30": 1,
         "newest": "2026-09-14T13:35:09.000Z",
         "precision": {
           "address": 2
@@ -1655,13 +1883,13 @@
     "NC-Johnston": {
       "slug": "NC-Johnston",
       "news": {
-        "total": 2,
-        "geocoded": 2,
-        "last7": 0,
-        "last30": 2,
-        "newest": "2026-09-14T12:50:00.000Z",
+        "total": 4,
+        "geocoded": 4,
+        "last7": 1,
+        "last30": 4,
+        "newest": "2026-10-04T17:25:00.000Z",
         "precision": {
-          "address": 2
+          "address": 4
         }
       },
       "outline": {
@@ -1702,7 +1930,7 @@
         "total": 3,
         "geocoded": 3,
         "last7": 0,
-        "last30": 3,
+        "last30": 1,
         "newest": "2026-09-14T13:35:09.000Z",
         "precision": {
           "city": 3
@@ -1724,7 +1952,7 @@
         "total": 2,
         "geocoded": 2,
         "last7": 0,
-        "last30": 2,
+        "last30": 1,
         "newest": "2026-09-14T13:30:19.000Z",
         "precision": {
           "city": 2
@@ -1768,7 +1996,7 @@
       "news": {
         "total": 1,
         "geocoded": 1,
-        "last7": 1,
+        "last7": 0,
         "last30": 1,
         "newest": "2026-09-23T13:43:12.000Z",
         "precision": {
@@ -1810,13 +2038,13 @@
     "NC-Polk": {
       "slug": "NC-Polk",
       "news": {
-        "total": 1,
-        "geocoded": 1,
+        "total": 2,
+        "geocoded": 2,
         "last7": 0,
-        "last30": 0,
-        "newest": "2026-08-28T15:00:00.000Z",
+        "last30": 1,
+        "newest": "2026-09-28T13:27:00.000Z",
         "precision": {
-          "city": 1
+          "city": 2
         }
       },
       "outline": {
@@ -1879,7 +2107,7 @@
         "total": 3,
         "geocoded": 3,
         "last7": 0,
-        "last30": 1,
+        "last30": 0,
         "newest": "2026-09-04T13:45:46.000Z",
         "precision": {
           "city": 2,
@@ -1919,12 +2147,56 @@
         }
       }
     },
+    "PA-Adams": {
+      "slug": "PA-Adams",
+      "news": {
+        "total": 2,
+        "geocoded": 2,
+        "last7": 0,
+        "last30": 2,
+        "newest": "2026-09-16T04:00:00.000Z",
+        "precision": {
+          "address": 2
+        }
+      },
+      "outline": {
+        "points": 602,
+        "bbox": {
+          "w": 39.71986,
+          "e": 40.06985,
+          "s": -77.47213,
+          "n": -76.95538
+        }
+      }
+    },
+    "PA-Allegheny": {
+      "slug": "PA-Allegheny",
+      "news": {
+        "total": 1,
+        "geocoded": 1,
+        "last7": 1,
+        "last30": 1,
+        "newest": "2026-10-05T10:01:00.000Z",
+        "precision": {
+          "city": 1
+        }
+      },
+      "outline": {
+        "points": 972,
+        "bbox": {
+          "w": 40.19435,
+          "e": 40.67417,
+          "s": -80.36077,
+          "n": -79.68876
+        }
+      }
+    },
     "PA-Beaver": {
       "slug": "PA-Beaver",
       "news": {
         "total": 1,
         "geocoded": 1,
-        "last7": 1,
+        "last7": 0,
         "last30": 1,
         "newest": "2026-09-23T19:04:22.000Z",
         "precision": {
@@ -1968,7 +2240,7 @@
       "news": {
         "total": 1,
         "geocoded": 1,
-        "last7": 1,
+        "last7": 0,
         "last30": 1,
         "newest": "2026-09-23T08:00:00.000Z",
         "precision": {
@@ -1982,6 +2254,28 @@
           "e": 41.25283,
           "s": -78.37698,
           "n": -77.1438
+        }
+      }
+    },
+    "PA-Chester": {
+      "slug": "PA-Chester",
+      "news": {
+        "total": 1,
+        "geocoded": 1,
+        "last7": 1,
+        "last30": 1,
+        "newest": "2026-09-28T21:47:15.000Z",
+        "precision": {
+          "address": 1
+        }
+      },
+      "outline": {
+        "points": 1986,
+        "bbox": {
+          "w": 39.7215,
+          "e": 40.24514,
+          "s": -76.13659,
+          "n": -75.3609
         }
       }
     },
@@ -2007,13 +2301,35 @@
         }
       }
     },
+    "PA-Clinton": {
+      "slug": "PA-Clinton",
+      "news": {
+        "total": 1,
+        "geocoded": 1,
+        "last7": 1,
+        "last30": 1,
+        "newest": "2026-10-05T04:00:53.000Z",
+        "precision": {
+          "address": 1
+        }
+      },
+      "outline": {
+        "points": 837,
+        "bbox": {
+          "w": 40.96294,
+          "e": 41.47858,
+          "s": -78.09338,
+          "n": -77.14371
+        }
+      }
+    },
     "PA-Cumberland": {
       "slug": "PA-Cumberland",
       "news": {
         "total": 2,
         "geocoded": 2,
         "last7": 0,
-        "last30": 2,
+        "last30": 1,
         "newest": "2026-09-10T10:00:00.000Z",
         "precision": {
           "address": 2
@@ -2054,12 +2370,13 @@
     "PA-Delaware": {
       "slug": "PA-Delaware",
       "news": {
-        "total": 1,
-        "geocoded": 1,
-        "last7": 0,
-        "last30": 1,
-        "newest": "2026-09-14T09:30:51.000Z",
+        "total": 2,
+        "geocoded": 2,
+        "last7": 1,
+        "last30": 2,
+        "newest": "2026-09-28T21:47:15.000Z",
         "precision": {
+          "address": 1,
           "city": 1
         }
       },
@@ -2073,12 +2390,78 @@
         }
       }
     },
+    "PA-Erie": {
+      "slug": "PA-Erie",
+      "news": {
+        "total": 2,
+        "geocoded": 2,
+        "last7": 2,
+        "last30": 2,
+        "newest": "2026-09-30T16:41:00.000Z",
+        "precision": {
+          "address": 2
+        }
+      },
+      "outline": {
+        "points": 166,
+        "bbox": {
+          "w": 41.84904,
+          "e": 42.51607,
+          "s": -80.51985,
+          "n": -79.61065
+        }
+      }
+    },
+    "PA-Indiana": {
+      "slug": "PA-Indiana",
+      "news": {
+        "total": 1,
+        "geocoded": 1,
+        "last7": 1,
+        "last30": 1,
+        "newest": "2026-09-30T23:55:00.000Z",
+        "precision": {
+          "address": 1
+        }
+      },
+      "outline": {
+        "points": 609,
+        "bbox": {
+          "w": 40.36872,
+          "e": 40.91135,
+          "s": -79.4599,
+          "n": -78.79923
+        }
+      }
+    },
+    "PA-Jefferson": {
+      "slug": "PA-Jefferson",
+      "news": {
+        "total": 1,
+        "geocoded": 1,
+        "last7": 1,
+        "last30": 1,
+        "newest": "2026-10-05T13:30:16.000Z",
+        "precision": {
+          "city": 1
+        }
+      },
+      "outline": {
+        "points": 700,
+        "bbox": {
+          "w": 40.90597,
+          "e": 41.37656,
+          "s": -79.21571,
+          "n": -78.71006
+        }
+      }
+    },
     "PA-Lehigh": {
       "slug": "PA-Lehigh",
       "news": {
         "total": 2,
         "geocoded": 2,
-        "last7": 1,
+        "last7": 0,
         "last30": 2,
         "newest": "2026-09-23T20:30:02.000Z",
         "precision": {
@@ -2095,12 +2478,34 @@
         }
       }
     },
+    "PA-Luzerne": {
+      "slug": "PA-Luzerne",
+      "news": {
+        "total": 1,
+        "geocoded": 1,
+        "last7": 1,
+        "last30": 1,
+        "newest": "2026-09-30T17:02:01.000Z",
+        "precision": {
+          "address": 1
+        }
+      },
+      "outline": {
+        "points": 885,
+        "bbox": {
+          "w": 40.90231,
+          "e": 41.42697,
+          "s": -76.32022,
+          "n": -75.60059
+        }
+      }
+    },
     "PA-Lycoming": {
       "slug": "PA-Lycoming",
       "news": {
         "total": 1,
         "geocoded": 1,
-        "last7": 1,
+        "last7": 0,
         "last30": 1,
         "newest": "2026-09-24T04:00:44.000Z",
         "precision": {
@@ -2117,12 +2522,56 @@
         }
       }
     },
+    "PA-Mercer": {
+      "slug": "PA-Mercer",
+      "news": {
+        "total": 2,
+        "geocoded": 2,
+        "last7": 0,
+        "last30": 2,
+        "newest": "2026-09-28T11:30:00.000Z",
+        "precision": {
+          "address": 2
+        }
+      },
+      "outline": {
+        "points": 220,
+        "bbox": {
+          "w": 41.0698,
+          "e": 41.49227,
+          "s": -80.51935,
+          "n": -79.9992
+        }
+      }
+    },
+    "PA-Montgomery": {
+      "slug": "PA-Montgomery",
+      "news": {
+        "total": 1,
+        "geocoded": 1,
+        "last7": 1,
+        "last30": 1,
+        "newest": "2026-09-30T21:41:06.000Z",
+        "precision": {
+          "address": 1
+        }
+      },
+      "outline": {
+        "points": 831,
+        "bbox": {
+          "w": 39.97696,
+          "e": 40.44709,
+          "s": -75.69678,
+          "n": -75.01507
+        }
+      }
+    },
     "PA-Northampton": {
       "slug": "PA-Northampton",
       "news": {
         "total": 2,
         "geocoded": 2,
-        "last7": 1,
+        "last7": 0,
         "last30": 2,
         "newest": "2026-09-23T20:30:02.000Z",
         "precision": {
@@ -2142,14 +2591,14 @@
     "PA-Philadelphia": {
       "slug": "PA-Philadelphia",
       "news": {
-        "total": 19,
-        "geocoded": 19,
-        "last7": 4,
-        "last30": 17,
-        "newest": "2026-09-24T00:08:28.000Z",
+        "total": 33,
+        "geocoded": 33,
+        "last7": 7,
+        "last30": 27,
+        "newest": "2026-10-05T12:00:46.000Z",
         "precision": {
-          "address": 18,
-          "city": 1
+          "address": 31,
+          "city": 2
         }
       },
       "outline": {
@@ -2165,13 +2614,13 @@
     "PA-Union": {
       "slug": "PA-Union",
       "news": {
-        "total": 1,
-        "geocoded": 1,
-        "last7": 0,
-        "last30": 1,
-        "newest": "2026-09-11T16:00:00.000Z",
+        "total": 2,
+        "geocoded": 2,
+        "last7": 1,
+        "last30": 2,
+        "newest": "2026-10-02T11:00:00.000Z",
         "precision": {
-          "address": 1
+          "address": 2
         }
       },
       "outline": {
@@ -2210,12 +2659,13 @@
     "PA-York": {
       "slug": "PA-York",
       "news": {
-        "total": 3,
-        "geocoded": 3,
-        "last7": 2,
-        "last30": 3,
-        "newest": "2026-09-23T16:50:00.000Z",
+        "total": 4,
+        "geocoded": 4,
+        "last7": 0,
+        "last30": 4,
+        "newest": "2026-09-28T13:42:38.000Z",
         "precision": {
+          "city": 1,
           "address": 3
         }
       },
@@ -2234,7 +2684,7 @@
       "news": {
         "total": 1,
         "geocoded": 1,
-        "last7": 1,
+        "last7": 0,
         "last30": 1,
         "newest": "2026-09-23T14:22:55.000Z",
         "precision": {
@@ -2277,13 +2727,13 @@
     "SC-Charleston": {
       "slug": "SC-Charleston",
       "news": {
-        "total": 1,
-        "geocoded": 1,
-        "last7": 0,
-        "last30": 0,
-        "newest": "2026-08-14T15:23:41.000Z",
+        "total": 2,
+        "geocoded": 2,
+        "last7": 1,
+        "last30": 1,
+        "newest": "2026-10-01T12:57:50.000Z",
         "precision": {
-          "address": 1
+          "address": 2
         }
       },
       "outline": {
@@ -2296,16 +2746,38 @@
         }
       }
     },
+    "SC-Clarendon": {
+      "slug": "SC-Clarendon",
+      "news": {
+        "total": 1,
+        "geocoded": 1,
+        "last7": 1,
+        "last30": 1,
+        "newest": "2026-10-05T13:30:02.000Z",
+        "precision": {
+          "city": 1
+        }
+      },
+      "outline": {
+        "points": 1002,
+        "bbox": {
+          "w": 33.43023,
+          "e": 33.94653,
+          "s": -80.54052,
+          "n": -79.87555
+        }
+      }
+    },
     "SC-Greenville": {
       "slug": "SC-Greenville",
       "news": {
-        "total": 5,
-        "geocoded": 5,
-        "last7": 0,
+        "total": 7,
+        "geocoded": 7,
+        "last7": 2,
         "last30": 3,
-        "newest": "2026-09-06T11:44:59.000Z",
+        "newest": "2026-10-02T14:03:14.000Z",
         "precision": {
-          "address": 5
+          "address": 7
         }
       },
       "outline": {
@@ -2323,7 +2795,7 @@
       "news": {
         "total": 1,
         "geocoded": 1,
-        "last7": 1,
+        "last7": 0,
         "last30": 1,
         "newest": "2026-09-23T17:20:11.000Z",
         "precision": {
@@ -2362,6 +2834,28 @@
         }
       }
     },
+    "SC-Orangeburg": {
+      "slug": "SC-Orangeburg",
+      "news": {
+        "total": 1,
+        "geocoded": 1,
+        "last7": 1,
+        "last30": 1,
+        "newest": "2026-10-05T13:30:02.000Z",
+        "precision": {
+          "city": 1
+        }
+      },
+      "outline": {
+        "points": 3575,
+        "bbox": {
+          "w": 33.17692,
+          "e": 33.70712,
+          "s": -81.37337,
+          "n": -80.22149
+        }
+      }
+    },
     "SC-Saluda": {
       "slug": "SC-Saluda",
       "news": {
@@ -2387,13 +2881,13 @@
     "SC-Spartanburg": {
       "slug": "SC-Spartanburg",
       "news": {
-        "total": 2,
-        "geocoded": 2,
-        "last7": 0,
-        "last30": 1,
-        "newest": "2026-09-06T11:44:59.000Z",
+        "total": 3,
+        "geocoded": 3,
+        "last7": 1,
+        "last30": 2,
+        "newest": "2026-10-01T17:00:11.000Z",
         "precision": {
-          "address": 2
+          "address": 3
         }
       },
       "outline": {
@@ -2409,12 +2903,13 @@
     "SC-Union": {
       "slug": "SC-Union",
       "news": {
-        "total": 1,
-        "geocoded": 1,
+        "total": 2,
+        "geocoded": 2,
         "last7": 0,
-        "last30": 0,
-        "newest": "2026-08-28T21:06:28.000Z",
+        "last30": 1,
+        "newest": "2026-09-28T14:14:39.000Z",
         "precision": {
+          "city": 1,
           "address": 1
         }
       },
@@ -2433,8 +2928,8 @@
       "news": {
         "total": 3,
         "geocoded": 3,
-        "last7": 1,
-        "last30": 2,
+        "last7": 0,
+        "last30": 1,
         "newest": "2026-09-23T15:16:30.000Z",
         "precision": {
           "address": 3
@@ -2470,13 +2965,35 @@
         }
       }
     },
+    "TX-Bell": {
+      "slug": "TX-Bell",
+      "news": {
+        "total": 1,
+        "geocoded": 1,
+        "last7": 0,
+        "last30": 1,
+        "newest": "2026-09-28T14:18:42.000Z",
+        "precision": {
+          "city": 1
+        }
+      },
+      "outline": {
+        "points": 191,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
     "TX-Bexar": {
       "slug": "TX-Bexar",
       "news": {
         "total": 5,
         "geocoded": 5,
-        "last7": 1,
-        "last30": 3,
+        "last7": 0,
+        "last30": 1,
         "newest": "2026-09-22T21:02:33.000Z",
         "precision": {
           "address": 2,
@@ -2518,12 +3035,13 @@
     "TX-Brazos": {
       "slug": "TX-Brazos",
       "news": {
-        "total": 2,
-        "geocoded": 2,
-        "last7": 0,
-        "last30": 2,
-        "newest": "2026-09-14T05:15:38.000Z",
+        "total": 3,
+        "geocoded": 3,
+        "last7": 1,
+        "last30": 3,
+        "newest": "2026-10-05T14:21:59.000Z",
         "precision": {
+          "city": 1,
           "address": 2
         }
       },
@@ -2560,14 +3078,14 @@
     "TX-Collin": {
       "slug": "TX-Collin",
       "news": {
-        "total": 14,
-        "geocoded": 14,
-        "last7": 3,
-        "last30": 9,
-        "newest": "2026-09-23T14:27:45.000Z",
+        "total": 16,
+        "geocoded": 16,
+        "last7": 1,
+        "last30": 10,
+        "newest": "2026-10-01T18:15:00.000Z",
         "precision": {
-          "city": 2,
-          "address": 12
+          "address": 14,
+          "city": 2
         }
       },
       "outline": {
@@ -2580,17 +3098,39 @@
         }
       }
     },
+    "TX-Colorado": {
+      "slug": "TX-Colorado",
+      "news": {
+        "total": 1,
+        "geocoded": 1,
+        "last7": 0,
+        "last30": 1,
+        "newest": "2026-09-28T13:27:00.000Z",
+        "precision": {
+          "city": 1
+        }
+      },
+      "outline": {
+        "points": 1690,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
     "TX-Dallas": {
       "slug": "TX-Dallas",
       "news": {
-        "total": 6,
-        "geocoded": 6,
-        "last7": 1,
-        "last30": 4,
-        "newest": "2026-09-23T14:27:45.000Z",
+        "total": 7,
+        "geocoded": 7,
+        "last7": 0,
+        "last30": 3,
+        "newest": "2026-09-28T14:03:21.000Z",
         "precision": {
-          "city": 4,
-          "address": 2
+          "address": 3,
+          "city": 4
         }
       },
       "outline": {
@@ -2608,7 +3148,7 @@
       "news": {
         "total": 12,
         "geocoded": 12,
-        "last7": 1,
+        "last7": 0,
         "last30": 4,
         "newest": "2026-09-23T17:10:00.000Z",
         "precision": {
@@ -2651,13 +3191,13 @@
     "TX-Fort-Bend": {
       "slug": "TX-Fort-Bend",
       "news": {
-        "total": 2,
-        "geocoded": 2,
+        "total": 3,
+        "geocoded": 3,
         "last7": 0,
-        "last30": 1,
-        "newest": "2026-09-13T19:56:00.000Z",
+        "last30": 2,
+        "newest": "2026-09-24T17:27:31.000Z",
         "precision": {
-          "address": 2
+          "address": 3
         }
       },
       "outline": {
@@ -2673,12 +3213,13 @@
     "TX-Galveston": {
       "slug": "TX-Galveston",
       "news": {
-        "total": 3,
-        "geocoded": 3,
-        "last7": 0,
-        "last30": 2,
-        "newest": "2026-09-11T19:52:55.000Z",
+        "total": 5,
+        "geocoded": 5,
+        "last7": 1,
+        "last30": 4,
+        "newest": "2026-10-05T14:21:59.000Z",
         "precision": {
+          "city": 2,
           "address": 3
         }
       },
@@ -2697,7 +3238,7 @@
       "news": {
         "total": 1,
         "geocoded": 1,
-        "last7": 1,
+        "last7": 0,
         "last30": 1,
         "newest": "2026-09-23T14:22:55.000Z",
         "precision": {
@@ -2714,17 +3255,39 @@
         }
       }
     },
+    "TX-Hamilton": {
+      "slug": "TX-Hamilton",
+      "news": {
+        "total": 1,
+        "geocoded": 1,
+        "last7": 0,
+        "last30": 1,
+        "newest": "2026-09-28T13:52:24.000Z",
+        "precision": {
+          "city": 1
+        }
+      },
+      "outline": {
+        "points": 109,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
     "TX-Harris": {
       "slug": "TX-Harris",
       "news": {
-        "total": 16,
-        "geocoded": 16,
-        "last7": 4,
-        "last30": 9,
-        "newest": "2026-09-23T14:22:55.000Z",
+        "total": 20,
+        "geocoded": 20,
+        "last7": 2,
+        "last30": 12,
+        "newest": "2026-10-05T14:21:59.000Z",
         "precision": {
-          "city": 4,
-          "address": 12
+          "city": 6,
+          "address": 14
         }
       },
       "outline": {
@@ -2740,18 +3303,40 @@
     "TX-Hays": {
       "slug": "TX-Hays",
       "news": {
-        "total": 9,
-        "geocoded": 9,
-        "last7": 3,
-        "last30": 8,
-        "newest": "2026-09-23T20:50:00.000Z",
+        "total": 13,
+        "geocoded": 13,
+        "last7": 2,
+        "last30": 11,
+        "newest": "2026-09-30T21:40:00.000Z",
         "precision": {
-          "address": 8,
-          "city": 1
+          "address": 11,
+          "city": 2
         }
       },
       "outline": {
         "points": 221,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
+    "TX-Hill": {
+      "slug": "TX-Hill",
+      "news": {
+        "total": 1,
+        "geocoded": 1,
+        "last7": 1,
+        "last30": 1,
+        "newest": "2026-10-05T13:30:16.000Z",
+        "precision": {
+          "city": 1
+        }
+      },
+      "outline": {
+        "points": 498,
         "bbox": {
           "w": 180,
           "e": -180,
@@ -2814,6 +3399,28 @@
       },
       "outline": {
         "points": 732,
+        "bbox": {
+          "w": 180,
+          "e": -180,
+          "s": 90,
+          "n": -90
+        }
+      }
+    },
+    "TX-Marion": {
+      "slug": "TX-Marion",
+      "news": {
+        "total": 1,
+        "geocoded": 1,
+        "last7": 1,
+        "last30": 1,
+        "newest": "2026-10-05T13:30:16.000Z",
+        "precision": {
+          "city": 1
+        }
+      },
+      "outline": {
+        "points": 899,
         "bbox": {
           "w": 180,
           "e": -180,
@@ -2887,14 +3494,14 @@
     "TX-Tarrant": {
       "slug": "TX-Tarrant",
       "news": {
-        "total": 12,
-        "geocoded": 12,
-        "last7": 3,
-        "last30": 8,
-        "newest": "2026-09-23T23:07:20.000Z",
+        "total": 15,
+        "geocoded": 15,
+        "last7": 0,
+        "last30": 10,
+        "newest": "2026-09-28T14:10:01.000Z",
         "precision": {
-          "address": 9,
-          "city": 3
+          "city": 5,
+          "address": 10
         }
       },
       "outline": {
@@ -2976,14 +3583,14 @@
     "TX-Williamson": {
       "slug": "TX-Williamson",
       "news": {
-        "total": 3,
-        "geocoded": 3,
-        "last7": 0,
-        "last30": 3,
-        "newest": "2026-09-17T11:00:00.000Z",
+        "total": 5,
+        "geocoded": 5,
+        "last7": 2,
+        "last30": 5,
+        "newest": "2026-10-05T16:21:00.000Z",
         "precision": {
-          "address": 2,
-          "city": 1
+          "address": 3,
+          "city": 2
         }
       },
       "outline": {
@@ -3016,12 +3623,57 @@
         }
       }
     },
+    "VA-Arlington": {
+      "slug": "VA-Arlington",
+      "news": {
+        "total": 2,
+        "geocoded": 2,
+        "last7": 0,
+        "last30": 2,
+        "newest": "2026-09-28T13:27:00.000Z",
+        "precision": {
+          "city": 1,
+          "address": 1
+        }
+      },
+      "outline": {
+        "points": 676,
+        "bbox": {
+          "w": 38.82736,
+          "e": 38.93437,
+          "s": -77.17228,
+          "n": -77.03214
+        }
+      }
+    },
+    "VA-Falls-Church-City": {
+      "slug": "VA-Falls-Church-City",
+      "news": {
+        "total": 1,
+        "geocoded": 1,
+        "last7": 0,
+        "last30": 1,
+        "newest": "2026-09-25T21:50:16.000Z",
+        "precision": {
+          "city": 1
+        }
+      },
+      "outline": {
+        "points": 78,
+        "bbox": {
+          "w": 38.87247,
+          "e": 38.89988,
+          "s": -77.19499,
+          "n": -77.1497
+        }
+      }
+    },
     "VA-Lexington-City": {
       "slug": "VA-Lexington-City",
       "news": {
         "total": 1,
         "geocoded": 1,
-        "last7": 1,
+        "last7": 0,
         "last30": 1,
         "newest": "2026-09-23T17:20:11.000Z",
         "precision": {
@@ -3038,12 +3690,78 @@
         }
       }
     },
+    "VA-Loudoun": {
+      "slug": "VA-Loudoun",
+      "news": {
+        "total": 1,
+        "geocoded": 1,
+        "last7": 0,
+        "last30": 1,
+        "newest": "2026-09-28T13:52:24.000Z",
+        "precision": {
+          "city": 1
+        }
+      },
+      "outline": {
+        "points": 1976,
+        "bbox": {
+          "w": 38.84621,
+          "e": 39.32456,
+          "s": -77.9622,
+          "n": -77.32832
+        }
+      }
+    },
+    "VA-Patrick": {
+      "slug": "VA-Patrick",
+      "news": {
+        "total": 2,
+        "geocoded": 2,
+        "last7": 0,
+        "last30": 2,
+        "newest": "2026-09-28T14:17:21.000Z",
+        "precision": {
+          "city": 2
+        }
+      },
+      "outline": {
+        "points": 1574,
+        "bbox": {
+          "w": 36.54252,
+          "e": 36.87213,
+          "s": -80.62574,
+          "n": -80.04149
+        }
+      }
+    },
+    "VA-Petersburg-City": {
+      "slug": "VA-Petersburg-City",
+      "news": {
+        "total": 1,
+        "geocoded": 1,
+        "last7": 1,
+        "last30": 1,
+        "newest": "2026-10-05T13:39:27.000Z",
+        "precision": {
+          "city": 1
+        }
+      },
+      "outline": {
+        "points": 451,
+        "bbox": {
+          "w": 37.1651,
+          "e": 37.24498,
+          "s": -77.45492,
+          "n": -77.32977
+        }
+      }
+    },
     "VA-Virginia-Beach-City": {
       "slug": "VA-Virginia-Beach-City",
       "news": {
         "total": 1,
         "geocoded": 1,
-        "last7": 1,
+        "last7": 0,
         "last30": 1,
         "newest": "2026-09-23T12:55:27.000Z",
         "precision": {
@@ -3063,13 +3781,13 @@
     "VA-York": {
       "slug": "VA-York",
       "news": {
-        "total": 1,
-        "geocoded": 1,
-        "last7": 1,
-        "last30": 1,
-        "newest": "2026-09-23T16:50:00.000Z",
+        "total": 2,
+        "geocoded": 2,
+        "last7": 0,
+        "last30": 2,
+        "newest": "2026-09-28T13:55:38.000Z",
         "precision": {
-          "address": 1
+          "address": 2
         }
       },
       "outline": {
@@ -3085,84 +3803,114 @@
   },
   "bestForNews": [
     {
-      "slug": "FL-Dade",
-      "last30": 23,
-      "last7": 6
+      "slug": "PA-Philadelphia",
+      "last30": 27,
+      "last7": 7
     },
     {
       "slug": "FL-Sarasota",
-      "last30": 23,
+      "last30": 26,
+      "last7": 4
+    },
+    {
+      "slug": "FL-Dade",
+      "last30": 22,
       "last7": 7
     },
     {
       "slug": "FL-Duval",
-      "last30": 18,
-      "last7": 4
+      "last30": 22,
+      "last7": 5
     },
     {
       "slug": "GA-Fulton",
+      "last30": 22,
+      "last7": 6
+    },
+    {
+      "slug": "FL-Hillsborough",
       "last30": 17,
       "last7": 3
     },
     {
-      "slug": "PA-Philadelphia",
-      "last30": 17,
-      "last7": 4
+      "slug": "NC-Cumberland",
+      "last30": 15,
+      "last7": 5
     },
     {
-      "slug": "FL-Hillsborough",
-      "last30": 16,
+      "slug": "FL-Lee",
+      "last30": 12,
+      "last7": 7
+    },
+    {
+      "slug": "TX-Harris",
+      "last30": 12,
       "last7": 2
     },
     {
       "slug": "FL-Palm-Beach",
-      "last30": 14,
-      "last7": 4
-    },
-    {
-      "slug": "NC-Cumberland",
-      "last30": 13,
-      "last7": 3
-    },
-    {
-      "slug": "FL-Manatee",
-      "last30": 9,
+      "last30": 11,
       "last7": 2
-    },
-    {
-      "slug": "FL-Marion",
-      "last30": 9,
-      "last7": 1
-    },
-    {
-      "slug": "TX-Collin",
-      "last30": 9,
-      "last7": 3
-    },
-    {
-      "slug": "TX-Harris",
-      "last30": 9,
-      "last7": 4
     },
     {
       "slug": "TX-Hays",
-      "last30": 8,
-      "last7": 3
+      "last30": 11,
+      "last7": 2
+    },
+    {
+      "slug": "FL-Collier",
+      "last30": 10,
+      "last7": 4
+    },
+    {
+      "slug": "TX-Collin",
+      "last30": 10,
+      "last7": 1
     },
     {
       "slug": "TX-Tarrant",
-      "last30": 8,
-      "last7": 3
+      "last30": 10,
+      "last7": 0
+    },
+    {
+      "slug": "FL-Pinellas",
+      "last30": 9,
+      "last7": 5
     },
     {
       "slug": "FL-Broward",
-      "last30": 7,
-      "last7": 3
+      "last30": 8,
+      "last7": 0
     },
     {
-      "slug": "FL-Lee",
+      "slug": "FL-Manatee",
       "last30": 7,
+      "last7": 0
+    },
+    {
+      "slug": "AL-Madison",
+      "last30": 6,
+      "last7": 1
+    },
+    {
+      "slug": "FL-Marion",
+      "last30": 6,
+      "last7": 0
+    },
+    {
+      "slug": "FL-St.-Johns",
+      "last30": 5,
       "last7": 2
+    },
+    {
+      "slug": "TX-Williamson",
+      "last30": 5,
+      "last7": 2
+    },
+    {
+      "slug": "AL-Montgomery",
+      "last30": 4,
+      "last7": 1
     },
     {
       "slug": "AZ-Pima",
@@ -3170,52 +3918,67 @@
       "last7": 0
     },
     {
-      "slug": "FL-Collier",
-      "last30": 4,
-      "last7": 2
-    },
-    {
-      "slug": "GA-Henry",
-      "last30": 4,
-      "last7": 2
-    },
-    {
-      "slug": "TX-Dallas",
+      "slug": "NC-Johnston",
       "last30": 4,
       "last7": 1
+    },
+    {
+      "slug": "PA-York",
+      "last30": 4,
+      "last7": 0
     },
     {
       "slug": "TX-Denton",
       "last30": 4,
+      "last7": 0
+    },
+    {
+      "slug": "TX-Galveston",
+      "last30": 4,
       "last7": 1
     },
     {
-      "slug": "AL-Madison",
+      "slug": "AL-Jefferson",
       "last30": 3,
-      "last7": 2
+      "last7": 1
     },
     {
-      "slug": "AL-Montgomery",
+      "slug": "AL-Mobile",
+      "last30": 3,
+      "last7": 1
+    },
+    {
+      "slug": "AZ-Maricopa",
       "last30": 3,
       "last7": 0
+    },
+    {
+      "slug": "CA-Los-Angeles",
+      "last30": 3,
+      "last7": 1
     },
     {
       "slug": "FL-Orange",
       "last30": 3,
-      "last7": 1
+      "last7": 0
     },
     {
-      "slug": "FL-St.-Johns",
+      "slug": "FL-Pasco",
+      "last30": 3,
+      "last7": 2
+    },
+    {
+      "slug": "GA-Clayton",
       "last30": 3,
       "last7": 1
     },
     {
-      "slug": "NC-Forsyth",
+      "slug": "GA-Henry",
       "last30": 3,
       "last7": 0
     },
     {
-      "slug": "NC-Mecklenburg",
+      "slug": "NC-Forsyth",
       "last30": 3,
       "last7": 0
     },
@@ -3225,54 +3988,44 @@
       "last7": 0
     },
     {
-      "slug": "PA-York",
+      "slug": "SC-Greenville",
       "last30": 3,
       "last7": 2
     },
     {
-      "slug": "SC-Greenville",
-      "last30": 3,
-      "last7": 0
-    },
-    {
-      "slug": "TX-Bexar",
+      "slug": "TX-Brazos",
       "last30": 3,
       "last7": 1
     },
     {
-      "slug": "TX-Williamson",
+      "slug": "TX-Dallas",
       "last30": 3,
       "last7": 0
+    },
+    {
+      "slug": "AL-Chambers",
+      "last30": 2,
+      "last7": 0
+    },
+    {
+      "slug": "AL-Houston",
+      "last30": 2,
+      "last7": 1
     },
     {
       "slug": "AL-Lauderdale",
       "last30": 2,
+      "last7": 0
+    },
+    {
+      "slug": "CA-San-Francisco",
+      "last30": 2,
+      "last7": 0
+    },
+    {
+      "slug": "FL-Osceola",
+      "last30": 2,
       "last7": 2
-    },
-    {
-      "slug": "AL-Mobile",
-      "last30": 2,
-      "last7": 1
-    },
-    {
-      "slug": "AZ-Maricopa",
-      "last30": 2,
-      "last7": 1
-    },
-    {
-      "slug": "AZ-Pinal",
-      "last30": 2,
-      "last7": 0
-    },
-    {
-      "slug": "FL-Pasco",
-      "last30": 2,
-      "last7": 0
-    },
-    {
-      "slug": "FL-Pinellas",
-      "last30": 2,
-      "last7": 0
     },
     {
       "slug": "FL-Polk",
@@ -3280,14 +4033,14 @@
       "last7": 0
     },
     {
-      "slug": "FL-St.-Lucie",
+      "slug": "FL-Seminole",
       "last30": 2,
       "last7": 0
     },
     {
-      "slug": "GA-Clayton",
+      "slug": "NC-Buncombe",
       "last30": 2,
-      "last7": 2
+      "last7": 1
     },
     {
       "slug": "NC-Cabarrus",
@@ -3295,37 +4048,47 @@
       "last7": 0
     },
     {
-      "slug": "NC-Durham",
-      "last30": 2,
-      "last7": 2
-    },
-    {
-      "slug": "NC-Guilford",
-      "last30": 2,
-      "last7": 0
-    },
-    {
-      "slug": "NC-Johnston",
-      "last30": 2,
-      "last7": 0
-    },
-    {
-      "slug": "NC-Nash",
-      "last30": 2,
-      "last7": 0
-    },
-    {
-      "slug": "PA-Cumberland",
-      "last30": 2,
-      "last7": 0
-    },
-    {
-      "slug": "PA-Lehigh",
+      "slug": "NC-Caldwell",
       "last30": 2,
       "last7": 1
     },
     {
+      "slug": "NC-Durham",
+      "last30": 2,
+      "last7": 0
+    },
+    {
+      "slug": "PA-Adams",
+      "last30": 2,
+      "last7": 0
+    },
+    {
+      "slug": "PA-Delaware",
+      "last30": 2,
+      "last7": 1
+    },
+    {
+      "slug": "PA-Erie",
+      "last30": 2,
+      "last7": 2
+    },
+    {
+      "slug": "PA-Lehigh",
+      "last30": 2,
+      "last7": 0
+    },
+    {
+      "slug": "PA-Mercer",
+      "last30": 2,
+      "last7": 0
+    },
+    {
       "slug": "PA-Northampton",
+      "last30": 2,
+      "last7": 0
+    },
+    {
+      "slug": "PA-Union",
       "last30": 2,
       "last7": 1
     },
@@ -3335,42 +4098,47 @@
       "last7": 0
     },
     {
-      "slug": "SC-York",
+      "slug": "SC-Spartanburg",
       "last30": 2,
       "last7": 1
     },
     {
-      "slug": "TX-Brazos",
+      "slug": "TX-Fort-Bend",
       "last30": 2,
       "last7": 0
     },
     {
-      "slug": "TX-Galveston",
+      "slug": "VA-Arlington",
       "last30": 2,
       "last7": 0
     },
     {
-      "slug": "AL-Chambers",
+      "slug": "VA-Patrick",
+      "last30": 2,
+      "last7": 0
+    },
+    {
+      "slug": "VA-York",
+      "last30": 2,
+      "last7": 0
+    },
+    {
+      "slug": "AL-Blount",
       "last30": 1,
       "last7": 1
     },
     {
       "slug": "AL-Clarke",
       "last30": 1,
-      "last7": 1
+      "last7": 0
     },
     {
-      "slug": "AL-DeKalb",
+      "slug": "AL-Dallas",
       "last30": 1,
       "last7": 0
     },
     {
-      "slug": "AL-Houston",
-      "last30": 1,
-      "last7": 1
-    },
-    {
-      "slug": "AL-Jefferson",
+      "slug": "AL-DeKalb",
       "last30": 1,
       "last7": 0
     },
@@ -3382,30 +4150,45 @@
     {
       "slug": "AL-Marengo",
       "last30": 1,
-      "last7": 1
+      "last7": 0
+    },
+    {
+      "slug": "AL-Marion",
+      "last30": 1,
+      "last7": 0
+    },
+    {
+      "slug": "AL-Morgan",
+      "last30": 1,
+      "last7": 0
     },
     {
       "slug": "AL-St.-Clair",
       "last30": 1,
-      "last7": 1
+      "last7": 0
     },
     {
       "slug": "AL-Sumter",
       "last30": 1,
-      "last7": 1
+      "last7": 0
+    },
+    {
+      "slug": "AZ-Pinal",
+      "last30": 1,
+      "last7": 0
     },
     {
       "slug": "CA-Amador",
       "last30": 1,
-      "last7": 1
+      "last7": 0
     },
     {
       "slug": "CA-Inyo",
       "last30": 1,
-      "last7": 1
+      "last7": 0
     },
     {
-      "slug": "CA-Los-Angeles",
+      "slug": "CA-Orange",
       "last30": 1,
       "last7": 1
     },
@@ -3415,22 +4198,42 @@
       "last7": 0
     },
     {
-      "slug": "CA-San-Francisco",
+      "slug": "CA-San-Bernardino",
+      "last30": 1,
+      "last7": 1
+    },
+    {
+      "slug": "CA-San-Diego",
+      "last30": 1,
+      "last7": 1
+    },
+    {
+      "slug": "CA-San-Mateo",
+      "last30": 1,
+      "last7": 0
+    },
+    {
+      "slug": "CA-Santa-Clara",
       "last30": 1,
       "last7": 0
     },
     {
       "slug": "CA-Shasta",
       "last30": 1,
+      "last7": 0
+    },
+    {
+      "slug": "FL-Charlotte",
+      "last30": 1,
       "last7": 1
     },
     {
-      "slug": "FL-Indian-River",
+      "slug": "FL-Martin",
       "last30": 1,
       "last7": 0
     },
     {
-      "slug": "FL-Seminole",
+      "slug": "FL-St.-Lucie",
       "last30": 1,
       "last7": 0
     },
@@ -3440,17 +4243,27 @@
       "last7": 0
     },
     {
-      "slug": "NC-Caldwell",
+      "slug": "GA-Forsyth",
       "last30": 1,
       "last7": 1
+    },
+    {
+      "slug": "GA-Jackson",
+      "last30": 1,
+      "last7": 1
+    },
+    {
+      "slug": "GA-Muscogee",
+      "last30": 1,
+      "last7": 0
     },
     {
       "slug": "NC-Davidson",
       "last30": 1,
-      "last7": 1
+      "last7": 0
     },
     {
-      "slug": "NC-Gaston",
+      "slug": "NC-Guilford",
       "last30": 1,
       "last7": 0
     },
@@ -3460,12 +4273,27 @@
       "last7": 0
     },
     {
+      "slug": "NC-Mecklenburg",
+      "last30": 1,
+      "last7": 0
+    },
+    {
+      "slug": "NC-Nash",
+      "last30": 1,
+      "last7": 0
+    },
+    {
       "slug": "NC-Northampton",
       "last30": 1,
-      "last7": 1
+      "last7": 0
     },
     {
       "slug": "NC-Onslow",
+      "last30": 1,
+      "last7": 0
+    },
+    {
+      "slug": "NC-Polk",
       "last30": 1,
       "last7": 0
     },
@@ -3480,14 +4308,14 @@
       "last7": 0
     },
     {
-      "slug": "NC-Union",
+      "slug": "PA-Allegheny",
       "last30": 1,
-      "last7": 0
+      "last7": 1
     },
     {
       "slug": "PA-Beaver",
       "last30": 1,
-      "last7": 1
+      "last7": 0
     },
     {
       "slug": "PA-Berks",
@@ -3497,6 +4325,11 @@
     {
       "slug": "PA-Centre",
       "last30": 1,
+      "last7": 0
+    },
+    {
+      "slug": "PA-Chester",
+      "last30": 1,
       "last7": 1
     },
     {
@@ -3505,29 +4338,59 @@
       "last7": 0
     },
     {
-      "slug": "PA-Delaware",
-      "last30": 1,
-      "last7": 0
-    },
-    {
-      "slug": "PA-Lycoming",
+      "slug": "PA-Clinton",
       "last30": 1,
       "last7": 1
     },
     {
-      "slug": "PA-Union",
+      "slug": "PA-Cumberland",
       "last30": 1,
       "last7": 0
     },
     {
+      "slug": "PA-Indiana",
+      "last30": 1,
+      "last7": 1
+    },
+    {
+      "slug": "PA-Jefferson",
+      "last30": 1,
+      "last7": 1
+    },
+    {
+      "slug": "PA-Luzerne",
+      "last30": 1,
+      "last7": 1
+    },
+    {
+      "slug": "PA-Lycoming",
+      "last30": 1,
+      "last7": 0
+    },
+    {
+      "slug": "PA-Montgomery",
+      "last30": 1,
+      "last7": 1
+    },
+    {
       "slug": "SC-Anderson",
+      "last30": 1,
+      "last7": 0
+    },
+    {
+      "slug": "SC-Charleston",
+      "last30": 1,
+      "last7": 1
+    },
+    {
+      "slug": "SC-Clarendon",
       "last30": 1,
       "last7": 1
     },
     {
       "slug": "SC-Lexington",
       "last30": 1,
-      "last7": 1
+      "last7": 0
     },
     {
       "slug": "SC-Oconee",
@@ -3535,7 +4398,32 @@
       "last7": 0
     },
     {
-      "slug": "SC-Spartanburg",
+      "slug": "SC-Orangeburg",
+      "last30": 1,
+      "last7": 1
+    },
+    {
+      "slug": "SC-Union",
+      "last30": 1,
+      "last7": 0
+    },
+    {
+      "slug": "SC-York",
+      "last30": 1,
+      "last7": 0
+    },
+    {
+      "slug": "TX-Bell",
+      "last30": 1,
+      "last7": 0
+    },
+    {
+      "slug": "TX-Bexar",
+      "last30": 1,
+      "last7": 0
+    },
+    {
+      "slug": "TX-Colorado",
       "last30": 1,
       "last7": 0
     },
@@ -3545,12 +4433,22 @@
       "last7": 0
     },
     {
-      "slug": "TX-Fort-Bend",
+      "slug": "TX-Grimes",
       "last30": 1,
       "last7": 0
     },
     {
-      "slug": "TX-Grimes",
+      "slug": "TX-Hamilton",
+      "last30": 1,
+      "last7": 0
+    },
+    {
+      "slug": "TX-Hill",
+      "last30": 1,
+      "last7": 1
+    },
+    {
+      "slug": "TX-Marion",
       "last30": 1,
       "last7": 1
     },
@@ -3560,19 +4458,29 @@
       "last7": 0
     },
     {
+      "slug": "VA-Falls-Church-City",
+      "last30": 1,
+      "last7": 0
+    },
+    {
       "slug": "VA-Lexington-City",
+      "last30": 1,
+      "last7": 0
+    },
+    {
+      "slug": "VA-Loudoun",
+      "last30": 1,
+      "last7": 0
+    },
+    {
+      "slug": "VA-Petersburg-City",
       "last30": 1,
       "last7": 1
     },
     {
       "slug": "VA-Virginia-Beach-City",
       "last30": 1,
-      "last7": 1
-    },
-    {
-      "slug": "VA-York",
-      "last30": 1,
-      "last7": 1
+      "last7": 0
     },
     {
       "slug": "AZ-Apache",
@@ -3625,11 +4533,6 @@
       "last7": 0
     },
     {
-      "slug": "FL-Charlotte",
-      "last30": 0,
-      "last7": 0
-    },
-    {
       "slug": "FL-Flagler",
       "last30": 0,
       "last7": 0
@@ -3640,12 +4543,12 @@
       "last7": 0
     },
     {
-      "slug": "FL-Lake",
+      "slug": "FL-Indian-River",
       "last30": 0,
       "last7": 0
     },
     {
-      "slug": "FL-Martin",
+      "slug": "FL-Lake",
       "last30": 0,
       "last7": 0
     },
@@ -3665,32 +4568,17 @@
       "last7": 0
     },
     {
-      "slug": "GA-Forsyth",
-      "last30": 0,
-      "last7": 0
-    },
-    {
       "slug": "GA-Gwinnett",
       "last30": 0,
       "last7": 0
     },
     {
-      "slug": "GA-Jackson",
+      "slug": "NC-Gaston",
       "last30": 0,
       "last7": 0
     },
     {
-      "slug": "GA-Muscogee",
-      "last30": 0,
-      "last7": 0
-    },
-    {
-      "slug": "NC-Buncombe",
-      "last30": 0,
-      "last7": 0
-    },
-    {
-      "slug": "NC-Polk",
+      "slug": "NC-Union",
       "last30": 0,
       "last7": 0
     },
@@ -3710,17 +4598,7 @@
       "last7": 0
     },
     {
-      "slug": "SC-Charleston",
-      "last30": 0,
-      "last7": 0
-    },
-    {
       "slug": "SC-Saluda",
-      "last30": 0,
-      "last7": 0
-    },
-    {
-      "slug": "SC-Union",
       "last30": 0,
       "last7": 0
     },
@@ -3786,11 +4664,12 @@
     }
   ],
   "warnings": [
-    "FL-Indian-River: outline only 147 pts — will read as a sketch at 1080x1920",
     "FL-Palm-Beach: outline only 66 pts — will read as a sketch at 1080x1920",
     "NC-Guilford: outline only 118 pts — will read as a sketch at 1080x1920",
     "NC-Rockingham: outline only 59 pts — will read as a sketch at 1080x1920",
     "NC-Stokes: outline only 53 pts — will read as a sketch at 1080x1920",
-    "TX-Tarrant: outline only 142 pts — will read as a sketch at 1080x1920"
+    "TX-Hamilton: outline only 109 pts — will read as a sketch at 1080x1920",
+    "TX-Tarrant: outline only 142 pts — will read as a sketch at 1080x1920",
+    "VA-Falls-Church-City: outline only 78 pts — will read as a sketch at 1080x1920"
   ]
 }
